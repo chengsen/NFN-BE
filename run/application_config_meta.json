@@ -1,0 +1,311 @@
+{
+  "keys": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+  "middleware": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+  "cors": {
+    "origin": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+    "allowMethods": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+    "credentials": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js"
+  },
+  "validate": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+      "type": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+    "protocolWhiteList": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "mongoose": {
+    "url": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+    "options": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+    "plugins": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js",
+    "loadModel": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "name": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "version": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "description": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "private": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "stop": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "dev": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "debug": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "test": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "cov": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "lint": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "ci": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "autod": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "url": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "license": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "strict": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "depth": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "env": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "level": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "logging": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "port": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
+}

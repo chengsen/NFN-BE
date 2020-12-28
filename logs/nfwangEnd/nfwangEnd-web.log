@@ -1,0 +1,743 @@
+2020-12-28 14:02:39,241 WARN 6958 [-/127.0.0.1/-/5ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:17:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6958
+hostname: chengsen.local
+
+2020-12-28 14:03:10,922 WARN 6958 [-/127.0.0.1/-/1ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:17:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6958
+hostname: chengsen.local
+
+2020-12-28 14:04:01,464 WARN 6991 [-/127.0.0.1/-/6ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6991
+hostname: chengsen.local
+
+2020-12-28 14:04:25,418 WARN 7001 [-/127.0.0.1/-/6ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7001
+hostname: chengsen.local
+
+2020-12-28 14:06:42,830 WARN 7001 [-/127.0.0.1/-/1ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7001
+hostname: chengsen.local
+
+2020-12-28 14:07:17,823 WARN 7001 [-/127.0.0.1/-/1ms POST /api/v2/topics?title=rrr&tab=%5B%27ask%27%5D&content=kjhbbg] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7001
+hostname: chengsen.local
+
+2020-12-28 14:07:52,853 WARN 7001 [-/127.0.0.1/-/1ms POST /api/v2/topics?title=rrr&tab=%5B%27ask%27%5D&content=kjhbbg] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7001
+hostname: chengsen.local
+
+2020-12-28 14:08:55,119 WARN 7001 [-/127.0.0.1/-/0ms POST /api/v2/topics?title=rrr&tab=%5B%27ask%27%5D&content=kjhbbg] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7001
+hostname: chengsen.local
+
+2020-12-28 14:09:56,359 WARN 7057 [-/127.0.0.1/-/7ms POST /api/v2/topics?title=rrr&tab=%5B%27ask%27%5D&content=kjhbbg] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7057
+hostname: chengsen.local
+
+2020-12-28 14:12:14,132 WARN 7057 [-/127.0.0.1/-/1ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7057
+hostname: chengsen.local
+
+2020-12-28 14:13:36,994 WARN 7057 [-/127.0.0.1/-/1ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7057
+hostname: chengsen.local
+
+2020-12-28 14:14:34,919 WARN 7057 [-/127.0.0.1/-/12ms POST /api/v2/topics] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7057
+hostname: chengsen.local
+
+2020-12-28 14:15:03,286 WARN 7057 [-/127.0.0.1/-/1256ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7057
+hostname: chengsen.local
+
+2020-12-28 14:15:32,773 WARN 7122 [-/127.0.0.1/-/11ms POST /api/v2/topics] nodejs.SyntaxError: Unexpected token ' in JSON at position 6, check bodyParser config
+    at JSON.parse (<anonymous>)
+    at parse (/Users/chengsen/WebProjects/nfwangEnd/node_modules/co-body/lib/json.js:57:17)
+    at AsyncFunction.module.exports [as json] (/Users/chengsen/WebProjects/nfwangEnd/node_modules/co-body/lib/json.js:41:20)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async parseBody (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:100:14)
+    at async bodyParser (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:85:19)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/meta.js:17:5)
+    at async cors (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@koa/cors/index.js:98:16)
+status: 400
+body: "{\n    'accesstoken':'aaa'\n  'title': 'aaaa',\n  'content': 'bbbb'\n}"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7122
+hostname: chengsen.local
+
+2020-12-28 14:15:47,135 WARN 7122 [-/127.0.0.1/-/986ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7122
+hostname: chengsen.local
+
+2020-12-28 14:15:49,779 WARN 7122 [-/127.0.0.1/-/228ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7122
+hostname: chengsen.local
+
+2020-12-28 14:16:00,221 WARN 7122 [-/127.0.0.1/-/736ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7122
+hostname: chengsen.local
+
+2020-12-28 14:17:14,709 WARN 7122 [-/127.0.0.1/-/627ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7122
+hostname: chengsen.local
+
+2020-12-28 14:17:16,640 WARN 7122 [-/127.0.0.1/-/212ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7122
+hostname: chengsen.local
+
+2020-12-28 14:18:25,264 WARN 7172 [-/127.0.0.1/-/2405ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7172
+hostname: chengsen.local
+
+2020-12-28 14:20:04,912 WARN 7211 [-/127.0.0.1/-/1411ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7211
+hostname: chengsen.local
+
+2020-12-28 14:20:23,193 WARN 7211 [-/127.0.0.1/-/634ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7211
+hostname: chengsen.local
+
+2020-12-28 14:20:49,301 WARN 7249 [-/127.0.0.1/-/919ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7249
+hostname: chengsen.local
+
+2020-12-28 14:23:19,584 WARN 7261 [-/127.0.0.1/-/878ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:20:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7261
+hostname: chengsen.local
+
+2020-12-28 14:25:55,691 WARN 7324 [-/127.0.0.1/-/966ms POST /api/v2/topics] nodejs.UnauthorizedError: 错误的accessToken
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at TopicService.checkSuccess (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:32:21)
+    at TopicService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/topics.js:20:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:21:16)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+message: "错误的accessToken"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7324
+hostname: chengsen.local
+
+2020-12-28 14:30:57,071 WARN 7370 [-/127.0.0.1/-/1ms POST /api/v2/topics?user_name=chengsen] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7370
+hostname: chengsen.local
+
+2020-12-28 14:34:55,098 WARN 7464 [-/127.0.0.1/-/5ms POST /api/v2/topics?user_name=chengsen] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7464
+hostname: chengsen.local
+
+2020-12-28 14:34:57,231 WARN 7464 [-/127.0.0.1/-/0ms POST /api/v2/topics?user_name=chengsen] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7464
+hostname: chengsen.local
+
+2020-12-28 14:35:14,365 WARN 7464 [-/127.0.0.1/-/1ms POST /api/v2/topics?user_name=chengsen] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at TopicController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/topics.js:18:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7464
+hostname: chengsen.local
+
+2020-12-28 14:42:25,968 ERROR 7639 [-/127.0.0.1/-/13ms POST /api/v2/user] nodejs.TypeError: Cannot read property 'create' of undefined
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:21:41)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7639
+hostname: chengsen.local
+
+2020-12-28 14:55:14,242 WARN 7825 [-/127.0.0.1/-/13ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"name","code":"missing_field"},{"message":"required","field":"sex","code":"missing_field"},{"message":"required","field":"nation","code":"missing_field"},{"message":"required","field":"idNumber","code":"missing_field"},{"message":"required","field":"BirtDate","code":"missing_field"},{"message":"required","field":"gradSchool","code":"missing_field"},{"message":"required","field":"eduBg","code":"missing_field"},{"message":"required","field":"peopleType","code":"missing_field"},{"message":"required","field":"transferFrom","code":"missing_field"},{"message":"required","field":"partyJoinDate","code":"missing_field"},{"message":"required","field":"turnTrueDate","code":"missing_field"},{"message":"required","field":"introducer1","code":"missing_field"},{"message":"required","field":"introducer2","code":"missing_field"},{"message":"required","field":"partyNormal","code":"missing_field"},{"message":"required","field":"archiveAddr","code":"missing_field"},{"message":"required","field":"phone","code":"missing_field"},{"message":"required","field":"homeAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7825
+hostname: chengsen.local
+
+2020-12-28 14:55:52,240 WARN 7825 [-/127.0.0.1/-/2ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"should be a number","code":"invalid","field":"nation"},{"message":"should be a number","code":"invalid","field":"idNumber"},{"message":"should be a number","code":"invalid","field":"peopleType"},{"message":"should be a string","code":"invalid","field":"introducer1"},{"message":"should be a string","code":"invalid","field":"introducer2"},{"message":"should be a number","code":"invalid","field":"partyNormal"},{"message":"should be a string","code":"invalid","field":"archiveAddr"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7825
+hostname: chengsen.local
+
+2020-12-28 14:56:48,619 WARN 7835 [-/127.0.0.1/-/13ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"introducer1","code":"missing_field"},{"message":"required","field":"introducer2","code":"missing_field"},{"message":"required","field":"archiveAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7835
+hostname: chengsen.local
+
+2020-12-28 14:57:13,446 WARN 7852 [-/127.0.0.1/-/12ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"introducer1","code":"missing_field"},{"message":"required","field":"introducer2","code":"missing_field"},{"message":"required","field":"archiveAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7852
+hostname: chengsen.local
+
+2020-12-28 14:57:20,908 WARN 7856 [-/127.0.0.1/-/12ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"introducer1","code":"missing_field"},{"message":"required","field":"introducer2","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7856
+hostname: chengsen.local
+
+2020-12-28 15:26:41,172 ERROR 9571 [-/127.0.0.1/-/0ms GET /] nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [xn--mongodb-l45k149cue9436a:27017] on first connect [Error: getaddrinfo ENOTFOUND xn--mongodb-l45k149cue9436a
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at Pool.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:995:11
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:32:7
+    at callback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:280:5)
+    at Socket.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:310:7)
+    at Object.onceWrapper (events.js:422:26)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+name: "MongoNetworkError"
+pid: 9571
+hostname: chengsen.local
+
+2020-12-28 15:30:21,878 WARN 9625 [-/127.0.0.1/-/17ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"birthDate","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9625
+hostname: chengsen.local
+
+2020-12-28 15:37:22,508 ERROR 9802 [-/127.0.0.1/-/43ms POST /api/v2/user] nodejs.ValidationError: User validation failed: sex: Cast to Number failed for value "man" at path "sex", archiveAddr: Path `archiveAddr` is required.
+    at model.Document.invalidate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:2688:32)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1301:12)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1010:16)
+    at model.Document (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:150:12)
+    at model.Model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:105:12)
+    at new model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:4693:15)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3055:22
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3091:7
+    at Array.forEach (<anonymous>)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3090:15
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)
+    at Mongoose._promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/index.js:1135:10)
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3025:23)
+    at userService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/user.js:14:41)
+errors: {"sex":{"stringValue":"\"man\"","kind":"Number","value":"man","path":"sex","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"archiveAddr":{"name":"ValidatorError","message":"Path `archiveAddr` is required.","properties":{"message":"Path `archiveAddr` is required.","type":"required","path":"archiveAddr"},"kind":"required","path":"archiveAddr"}}
+_message: "User validation failed"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9802
+hostname: chengsen.local
+
+2020-12-28 15:38:03,324 ERROR 9817 [-/127.0.0.1/-/38ms POST /api/v2/user] nodejs.ValidationError: User validation failed: sex: Cast to Number failed for value "man" at path "sex"
+    at model.Document.invalidate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:2688:32)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1301:12)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1010:16)
+    at model.Document (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:150:12)
+    at model.Model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:105:12)
+    at new model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:4693:15)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3055:22
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3091:7
+    at Array.forEach (<anonymous>)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3090:15
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)
+    at Mongoose._promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/index.js:1135:10)
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3025:23)
+    at userService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/user.js:14:41)
+errors: {"sex":{"stringValue":"\"man\"","kind":"Number","value":"man","path":"sex","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}}
+_message: "User validation failed"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9817
+hostname: chengsen.local
+
+2020-12-28 15:38:43,186 ERROR 9819 [-/127.0.0.1/-/31ms POST /api/v2/user] nodejs.MongoError: E11000 duplicate key error collection: rencs.users index: userName_1 dup key: { userName: "string" }
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/error.js:57:12)
+    at toError (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/utils.js:123:22)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/operations/common_functions.js:265:39
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+keyPattern: {"userName":1}
+keyValue: {"userName":"string"}
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9819
+hostname: chengsen.local
+
+2020-12-28 15:40:46,004 ERROR 9864 [-/127.0.0.1/-/30ms POST /api/v2/user] nodejs.MongoError: E11000 duplicate key error collection: rencs.users index: userName_1 dup key: { userName: "string" }
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/error.js:57:12)
+    at toError (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/utils.js:123:22)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/operations/common_functions.js:265:39
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+keyPattern: {"userName":1}
+keyValue: {"userName":"string"}
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9864
+hostname: chengsen.local
+
+2020-12-28 15:41:27,206 ERROR 9864 [-/127.0.0.1/-/4ms POST /api/v2/user] nodejs.MongoError: E11000 duplicate key error collection: rencs.users index: userName_1 dup key: { userName: "string" }
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/error.js:57:12)
+    at toError (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/utils.js:123:22)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/operations/common_functions.js:265:39
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+keyPattern: {"userName":1}
+keyValue: {"userName":"string"}
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9864
+hostname: chengsen.local
+

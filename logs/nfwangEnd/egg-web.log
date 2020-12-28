@@ -1,0 +1,1690 @@
+2020-12-28 14:02:34,004 INFO 6958 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:02:34,025 INFO 6958 [egg-multipart] stream mode enable
+2020-12-28 14:02:34,119 INFO 6958 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:02:34,120 INFO 6958 [egg-security] use methodnoallow middleware
+2020-12-28 14:02:34,121 INFO 6958 [egg-security] use noopen middleware
+2020-12-28 14:02:34,122 INFO 6958 [egg-security] use nosniff middleware
+2020-12-28 14:02:34,122 INFO 6958 [egg-security] use xssProtection middleware
+2020-12-28 14:02:34,123 INFO 6958 [egg-security] use xframe middleware
+2020-12-28 14:02:34,124 INFO 6958 [egg-security] use dta middleware
+2020-12-28 14:02:34,124 INFO 6958 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:02:34,131 INFO 6958 [egg:core] dump config after load, 3ms
+2020-12-28 14:02:34,142 INFO 6958 [egg-watcher:application] watcher start success
+2020-12-28 14:02:34,147 INFO 6958 [egg:core] dump config after ready, 4ms
+2020-12-28 14:03:46,708 INFO 6986 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:03:46,725 INFO 6986 [egg-multipart] stream mode enable
+2020-12-28 14:03:46,778 INFO 6986 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:03:46,779 INFO 6986 [egg-security] use methodnoallow middleware
+2020-12-28 14:03:46,780 INFO 6986 [egg-security] use noopen middleware
+2020-12-28 14:03:46,780 INFO 6986 [egg-security] use nosniff middleware
+2020-12-28 14:03:46,780 INFO 6986 [egg-security] use xssProtection middleware
+2020-12-28 14:03:46,781 INFO 6986 [egg-security] use xframe middleware
+2020-12-28 14:03:46,781 INFO 6986 [egg-security] use dta middleware
+2020-12-28 14:03:46,781 INFO 6986 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:03:46,789 INFO 6986 [egg:core] dump config after load, 3ms
+2020-12-28 14:03:46,799 INFO 6986 [egg-watcher:application] watcher start success
+2020-12-28 14:03:46,805 INFO 6986 [egg:core] dump config after ready, 4ms
+2020-12-28 14:03:57,733 INFO 6991 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:03:57,754 INFO 6991 [egg-multipart] stream mode enable
+2020-12-28 14:03:57,811 INFO 6991 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:03:57,812 INFO 6991 [egg-security] use methodnoallow middleware
+2020-12-28 14:03:57,813 INFO 6991 [egg-security] use noopen middleware
+2020-12-28 14:03:57,813 INFO 6991 [egg-security] use nosniff middleware
+2020-12-28 14:03:57,813 INFO 6991 [egg-security] use xssProtection middleware
+2020-12-28 14:03:57,814 INFO 6991 [egg-security] use xframe middleware
+2020-12-28 14:03:57,814 INFO 6991 [egg-security] use dta middleware
+2020-12-28 14:03:57,814 INFO 6991 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:03:57,822 INFO 6991 [egg:core] dump config after load, 3ms
+2020-12-28 14:03:57,832 INFO 6991 [egg-watcher:application] watcher start success
+2020-12-28 14:03:57,838 INFO 6991 [egg:core] dump config after ready, 4ms
+2020-12-28 14:04:21,086 INFO 7001 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:04:21,104 INFO 7001 [egg-multipart] stream mode enable
+2020-12-28 14:04:21,152 INFO 7001 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:04:21,154 INFO 7001 [egg-security] use methodnoallow middleware
+2020-12-28 14:04:21,154 INFO 7001 [egg-security] use noopen middleware
+2020-12-28 14:04:21,154 INFO 7001 [egg-security] use nosniff middleware
+2020-12-28 14:04:21,155 INFO 7001 [egg-security] use xssProtection middleware
+2020-12-28 14:04:21,155 INFO 7001 [egg-security] use xframe middleware
+2020-12-28 14:04:21,155 INFO 7001 [egg-security] use dta middleware
+2020-12-28 14:04:21,155 INFO 7001 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:04:21,162 INFO 7001 [egg:core] dump config after load, 3ms
+2020-12-28 14:04:21,171 INFO 7001 [egg-watcher:application] watcher start success
+2020-12-28 14:04:21,175 INFO 7001 [egg:core] dump config after ready, 3ms
+2020-12-28 14:09:51,449 INFO 7057 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:09:51,467 INFO 7057 [egg-multipart] stream mode enable
+2020-12-28 14:09:51,520 INFO 7057 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:09:51,522 INFO 7057 [egg-security] use methodnoallow middleware
+2020-12-28 14:09:51,522 INFO 7057 [egg-security] use noopen middleware
+2020-12-28 14:09:51,522 INFO 7057 [egg-security] use nosniff middleware
+2020-12-28 14:09:51,523 INFO 7057 [egg-security] use xssProtection middleware
+2020-12-28 14:09:51,523 INFO 7057 [egg-security] use xframe middleware
+2020-12-28 14:09:51,523 INFO 7057 [egg-security] use dta middleware
+2020-12-28 14:09:51,523 INFO 7057 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:09:51,531 INFO 7057 [egg:core] dump config after load, 3ms
+2020-12-28 14:09:51,541 INFO 7057 [egg-watcher:application] watcher start success
+2020-12-28 14:09:51,547 INFO 7057 [egg:core] dump config after ready, 4ms
+2020-12-28 14:15:20,026 INFO 7122 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:15:20,044 INFO 7122 [egg-multipart] stream mode enable
+2020-12-28 14:15:20,095 INFO 7122 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:15:20,096 INFO 7122 [egg-security] use methodnoallow middleware
+2020-12-28 14:15:20,097 INFO 7122 [egg-security] use noopen middleware
+2020-12-28 14:15:20,097 INFO 7122 [egg-security] use nosniff middleware
+2020-12-28 14:15:20,097 INFO 7122 [egg-security] use xssProtection middleware
+2020-12-28 14:15:20,098 INFO 7122 [egg-security] use xframe middleware
+2020-12-28 14:15:20,098 INFO 7122 [egg-security] use dta middleware
+2020-12-28 14:15:20,098 INFO 7122 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:15:20,105 INFO 7122 [egg:core] dump config after load, 3ms
+2020-12-28 14:15:20,115 INFO 7122 [egg-watcher:application] watcher start success
+2020-12-28 14:15:20,121 INFO 7122 [egg:core] dump config after ready, 5ms
+2020-12-28 14:18:20,219 INFO 7172 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:18:20,248 INFO 7172 [egg-multipart] stream mode enable
+2020-12-28 14:18:20,378 INFO 7172 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:18:20,379 INFO 7172 [egg-security] use methodnoallow middleware
+2020-12-28 14:18:20,380 INFO 7172 [egg-security] use noopen middleware
+2020-12-28 14:18:20,381 INFO 7172 [egg-security] use nosniff middleware
+2020-12-28 14:18:20,381 INFO 7172 [egg-security] use xssProtection middleware
+2020-12-28 14:18:20,382 INFO 7172 [egg-security] use xframe middleware
+2020-12-28 14:18:20,383 INFO 7172 [egg-security] use dta middleware
+2020-12-28 14:18:20,383 INFO 7172 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:18:20,392 INFO 7172 [egg:core] dump config after load, 4ms
+2020-12-28 14:18:20,401 INFO 7172 [egg-watcher:application] watcher start success
+2020-12-28 14:18:20,407 INFO 7172 [egg:core] dump config after ready, 4ms
+2020-12-28 14:19:57,742 INFO 7211 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:19:57,769 INFO 7211 [egg-multipart] stream mode enable
+2020-12-28 14:19:57,878 INFO 7211 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:19:57,880 INFO 7211 [egg-security] use methodnoallow middleware
+2020-12-28 14:19:57,881 INFO 7211 [egg-security] use noopen middleware
+2020-12-28 14:19:57,881 INFO 7211 [egg-security] use nosniff middleware
+2020-12-28 14:19:57,882 INFO 7211 [egg-security] use xssProtection middleware
+2020-12-28 14:19:57,883 INFO 7211 [egg-security] use xframe middleware
+2020-12-28 14:19:57,883 INFO 7211 [egg-security] use dta middleware
+2020-12-28 14:19:57,883 INFO 7211 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:19:57,891 INFO 7211 [egg:core] dump config after load, 3ms
+2020-12-28 14:19:57,901 INFO 7211 [egg-watcher:application] watcher start success
+2020-12-28 14:19:57,906 INFO 7211 [egg:core] dump config after ready, 3ms
+2020-12-28 14:20:44,078 INFO 7249 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:20:44,098 INFO 7249 [egg-multipart] stream mode enable
+2020-12-28 14:20:44,210 INFO 7249 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:20:44,213 INFO 7249 [egg-security] use methodnoallow middleware
+2020-12-28 14:20:44,213 INFO 7249 [egg-security] use noopen middleware
+2020-12-28 14:20:44,214 INFO 7249 [egg-security] use nosniff middleware
+2020-12-28 14:20:44,215 INFO 7249 [egg-security] use xssProtection middleware
+2020-12-28 14:20:44,216 INFO 7249 [egg-security] use xframe middleware
+2020-12-28 14:20:44,216 INFO 7249 [egg-security] use dta middleware
+2020-12-28 14:20:44,216 INFO 7249 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:20:44,226 INFO 7249 [egg:core] dump config after load, 4ms
+2020-12-28 14:20:44,237 INFO 7249 [egg-watcher:application] watcher start success
+2020-12-28 14:20:44,243 INFO 7249 [egg:core] dump config after ready, 4ms
+2020-12-28 14:21:48,155 INFO 7261 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:21:48,177 INFO 7261 [egg-multipart] stream mode enable
+2020-12-28 14:21:48,298 INFO 7261 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:21:48,300 INFO 7261 [egg-security] use methodnoallow middleware
+2020-12-28 14:21:48,301 INFO 7261 [egg-security] use noopen middleware
+2020-12-28 14:21:48,302 INFO 7261 [egg-security] use nosniff middleware
+2020-12-28 14:21:48,302 INFO 7261 [egg-security] use xssProtection middleware
+2020-12-28 14:21:48,303 INFO 7261 [egg-security] use xframe middleware
+2020-12-28 14:21:48,304 INFO 7261 [egg-security] use dta middleware
+2020-12-28 14:21:48,304 INFO 7261 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:21:48,312 INFO 7261 [egg:core] dump config after load, 3ms
+2020-12-28 14:21:48,322 INFO 7261 [egg-watcher:application] watcher start success
+2020-12-28 14:21:48,327 INFO 7261 [egg:core] dump config after ready, 3ms
+2020-12-28 14:23:55,093 INFO 7290 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:23:55,111 INFO 7290 [egg-multipart] stream mode enable
+2020-12-28 14:23:55,200 INFO 7290 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:23:55,202 INFO 7290 [egg-security] use methodnoallow middleware
+2020-12-28 14:23:55,203 INFO 7290 [egg-security] use noopen middleware
+2020-12-28 14:23:55,203 INFO 7290 [egg-security] use nosniff middleware
+2020-12-28 14:23:55,204 INFO 7290 [egg-security] use xssProtection middleware
+2020-12-28 14:23:55,204 INFO 7290 [egg-security] use xframe middleware
+2020-12-28 14:23:55,205 INFO 7290 [egg-security] use dta middleware
+2020-12-28 14:23:55,205 INFO 7290 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:23:55,213 INFO 7290 [egg:core] dump config after load, 3ms
+2020-12-28 14:23:55,221 INFO 7290 [egg-watcher:application] watcher start success
+2020-12-28 14:23:55,226 INFO 7290 [egg:core] dump config after ready, 3ms
+2020-12-28 14:25:50,214 INFO 7324 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:25:50,242 INFO 7324 [egg-multipart] stream mode enable
+2020-12-28 14:25:50,350 INFO 7324 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:25:50,351 INFO 7324 [egg-security] use methodnoallow middleware
+2020-12-28 14:25:50,352 INFO 7324 [egg-security] use noopen middleware
+2020-12-28 14:25:50,353 INFO 7324 [egg-security] use nosniff middleware
+2020-12-28 14:25:50,353 INFO 7324 [egg-security] use xssProtection middleware
+2020-12-28 14:25:50,354 INFO 7324 [egg-security] use xframe middleware
+2020-12-28 14:25:50,355 INFO 7324 [egg-security] use dta middleware
+2020-12-28 14:25:50,355 INFO 7324 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:25:50,363 INFO 7324 [egg:core] dump config after load, 3ms
+2020-12-28 14:25:50,374 INFO 7324 [egg-watcher:application] watcher start success
+2020-12-28 14:25:50,379 INFO 7324 [egg:core] dump config after ready, 4ms
+2020-12-28 14:26:21,052 INFO 7338 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:26:21,079 INFO 7338 [egg-multipart] stream mode enable
+2020-12-28 14:26:21,210 INFO 7338 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:26:21,212 INFO 7338 [egg-security] use methodnoallow middleware
+2020-12-28 14:26:21,212 INFO 7338 [egg-security] use noopen middleware
+2020-12-28 14:26:21,213 INFO 7338 [egg-security] use nosniff middleware
+2020-12-28 14:26:21,214 INFO 7338 [egg-security] use xssProtection middleware
+2020-12-28 14:26:21,215 INFO 7338 [egg-security] use xframe middleware
+2020-12-28 14:26:21,216 INFO 7338 [egg-security] use dta middleware
+2020-12-28 14:26:21,216 INFO 7338 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:26:21,226 INFO 7338 [egg:core] dump config after load, 4ms
+2020-12-28 14:26:21,236 INFO 7338 [egg-watcher:application] watcher start success
+2020-12-28 14:26:21,242 INFO 7338 [egg:core] dump config after ready, 4ms
+2020-12-28 14:26:41,743 INFO 7348 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:26:41,770 INFO 7348 [egg-multipart] stream mode enable
+2020-12-28 14:26:41,899 INFO 7348 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:26:41,901 INFO 7348 [egg-security] use methodnoallow middleware
+2020-12-28 14:26:41,902 INFO 7348 [egg-security] use noopen middleware
+2020-12-28 14:26:41,903 INFO 7348 [egg-security] use nosniff middleware
+2020-12-28 14:26:41,904 INFO 7348 [egg-security] use xssProtection middleware
+2020-12-28 14:26:41,905 INFO 7348 [egg-security] use xframe middleware
+2020-12-28 14:26:41,906 INFO 7348 [egg-security] use dta middleware
+2020-12-28 14:26:41,906 INFO 7348 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:26:41,917 INFO 7348 [egg:core] dump config after load, 4ms
+2020-12-28 14:26:41,928 INFO 7348 [egg-watcher:application] watcher start success
+2020-12-28 14:26:41,933 INFO 7348 [egg:core] dump config after ready, 3ms
+2020-12-28 14:27:07,385 INFO 7349 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:27:07,402 INFO 7349 [egg-multipart] stream mode enable
+2020-12-28 14:27:07,449 INFO 7349 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:27:07,451 INFO 7349 [egg-security] use methodnoallow middleware
+2020-12-28 14:27:07,451 INFO 7349 [egg-security] use noopen middleware
+2020-12-28 14:27:07,451 INFO 7349 [egg-security] use nosniff middleware
+2020-12-28 14:27:07,452 INFO 7349 [egg-security] use xssProtection middleware
+2020-12-28 14:27:07,452 INFO 7349 [egg-security] use xframe middleware
+2020-12-28 14:27:07,452 INFO 7349 [egg-security] use dta middleware
+2020-12-28 14:27:07,452 INFO 7349 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:27:07,459 INFO 7349 [egg:core] dump config after load, 3ms
+2020-12-28 14:27:07,468 INFO 7349 [egg-watcher:application] watcher start success
+2020-12-28 14:27:07,473 INFO 7349 [egg:core] dump config after ready, 4ms
+2020-12-28 14:27:38,471 INFO 7358 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:27:38,500 INFO 7358 [egg-multipart] stream mode enable
+2020-12-28 14:27:38,629 INFO 7358 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:27:38,631 INFO 7358 [egg-security] use methodnoallow middleware
+2020-12-28 14:27:38,632 INFO 7358 [egg-security] use noopen middleware
+2020-12-28 14:27:38,632 INFO 7358 [egg-security] use nosniff middleware
+2020-12-28 14:27:38,633 INFO 7358 [egg-security] use xssProtection middleware
+2020-12-28 14:27:38,634 INFO 7358 [egg-security] use xframe middleware
+2020-12-28 14:27:38,634 INFO 7358 [egg-security] use dta middleware
+2020-12-28 14:27:38,634 INFO 7358 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:27:38,643 INFO 7358 [egg:core] dump config after load, 3ms
+2020-12-28 14:27:38,652 INFO 7358 [egg-watcher:application] watcher start success
+2020-12-28 14:27:38,658 INFO 7358 [egg:core] dump config after ready, 4ms
+2020-12-28 14:28:50,471 INFO 7370 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:28:50,489 INFO 7370 [egg-multipart] stream mode enable
+2020-12-28 14:28:50,536 INFO 7370 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:28:50,538 INFO 7370 [egg-security] use methodnoallow middleware
+2020-12-28 14:28:50,538 INFO 7370 [egg-security] use noopen middleware
+2020-12-28 14:28:50,538 INFO 7370 [egg-security] use nosniff middleware
+2020-12-28 14:28:50,539 INFO 7370 [egg-security] use xssProtection middleware
+2020-12-28 14:28:50,539 INFO 7370 [egg-security] use xframe middleware
+2020-12-28 14:28:50,539 INFO 7370 [egg-security] use dta middleware
+2020-12-28 14:28:50,539 INFO 7370 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:28:50,546 INFO 7370 [egg:core] dump config after load, 3ms
+2020-12-28 14:28:50,554 INFO 7370 [egg-watcher:application] watcher start success
+2020-12-28 14:28:50,559 INFO 7370 [egg:core] dump config after ready, 3ms
+2020-12-28 14:31:16,867 INFO 7396 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:31:16,884 INFO 7396 [egg-multipart] stream mode enable
+2020-12-28 14:31:16,930 INFO 7396 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:31:16,932 INFO 7396 [egg-security] use methodnoallow middleware
+2020-12-28 14:31:16,932 INFO 7396 [egg-security] use noopen middleware
+2020-12-28 14:31:16,932 INFO 7396 [egg-security] use nosniff middleware
+2020-12-28 14:31:16,933 INFO 7396 [egg-security] use xssProtection middleware
+2020-12-28 14:31:16,933 INFO 7396 [egg-security] use xframe middleware
+2020-12-28 14:31:16,933 INFO 7396 [egg-security] use dta middleware
+2020-12-28 14:31:16,933 INFO 7396 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:31:16,941 INFO 7396 [egg:core] dump config after load, 3ms
+2020-12-28 14:31:16,950 INFO 7396 [egg-watcher:application] watcher start success
+2020-12-28 14:31:16,955 INFO 7396 [egg:core] dump config after ready, 4ms
+2020-12-28 14:31:25,926 INFO 7403 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:31:25,947 INFO 7403 [egg-multipart] stream mode enable
+2020-12-28 14:31:26,000 INFO 7403 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:31:26,001 INFO 7403 [egg-security] use methodnoallow middleware
+2020-12-28 14:31:26,001 INFO 7403 [egg-security] use noopen middleware
+2020-12-28 14:31:26,002 INFO 7403 [egg-security] use nosniff middleware
+2020-12-28 14:31:26,002 INFO 7403 [egg-security] use xssProtection middleware
+2020-12-28 14:31:26,002 INFO 7403 [egg-security] use xframe middleware
+2020-12-28 14:31:26,002 INFO 7403 [egg-security] use dta middleware
+2020-12-28 14:31:26,003 INFO 7403 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:31:26,012 INFO 7403 [egg:core] dump config after load, 4ms
+2020-12-28 14:31:26,022 INFO 7403 [egg-watcher:application] watcher start success
+2020-12-28 14:31:26,027 INFO 7403 [egg:core] dump config after ready, 4ms
+2020-12-28 14:31:34,328 INFO 7405 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:31:34,345 INFO 7405 [egg-multipart] stream mode enable
+2020-12-28 14:31:34,391 INFO 7405 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:31:34,393 INFO 7405 [egg-security] use methodnoallow middleware
+2020-12-28 14:31:34,393 INFO 7405 [egg-security] use noopen middleware
+2020-12-28 14:31:34,393 INFO 7405 [egg-security] use nosniff middleware
+2020-12-28 14:31:34,393 INFO 7405 [egg-security] use xssProtection middleware
+2020-12-28 14:31:34,394 INFO 7405 [egg-security] use xframe middleware
+2020-12-28 14:31:34,394 INFO 7405 [egg-security] use dta middleware
+2020-12-28 14:31:34,394 INFO 7405 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:31:34,402 INFO 7405 [egg:core] dump config after load, 3ms
+2020-12-28 14:31:34,411 INFO 7405 [egg-watcher:application] watcher start success
+2020-12-28 14:31:34,416 INFO 7405 [egg:core] dump config after ready, 4ms
+2020-12-28 14:31:59,873 INFO 7413 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:31:59,892 INFO 7413 [egg-multipart] stream mode enable
+2020-12-28 14:31:59,939 INFO 7413 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:31:59,940 INFO 7413 [egg-security] use methodnoallow middleware
+2020-12-28 14:31:59,941 INFO 7413 [egg-security] use noopen middleware
+2020-12-28 14:31:59,941 INFO 7413 [egg-security] use nosniff middleware
+2020-12-28 14:31:59,941 INFO 7413 [egg-security] use xssProtection middleware
+2020-12-28 14:31:59,942 INFO 7413 [egg-security] use xframe middleware
+2020-12-28 14:31:59,942 INFO 7413 [egg-security] use dta middleware
+2020-12-28 14:31:59,942 INFO 7413 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:31:59,950 INFO 7413 [egg:core] dump config after load, 3ms
+2020-12-28 14:31:59,959 INFO 7413 [egg-watcher:application] watcher start success
+2020-12-28 14:31:59,963 INFO 7413 [egg:core] dump config after ready, 3ms
+2020-12-28 14:32:37,620 INFO 7421 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:32:37,641 INFO 7421 [egg-multipart] stream mode enable
+2020-12-28 14:32:37,698 INFO 7421 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:32:37,700 INFO 7421 [egg-security] use methodnoallow middleware
+2020-12-28 14:32:37,700 INFO 7421 [egg-security] use noopen middleware
+2020-12-28 14:32:37,701 INFO 7421 [egg-security] use nosniff middleware
+2020-12-28 14:32:37,701 INFO 7421 [egg-security] use xssProtection middleware
+2020-12-28 14:32:37,701 INFO 7421 [egg-security] use xframe middleware
+2020-12-28 14:32:37,702 INFO 7421 [egg-security] use dta middleware
+2020-12-28 14:32:37,702 INFO 7421 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:32:37,713 INFO 7421 [egg:core] dump config after load, 5ms
+2020-12-28 14:32:37,722 INFO 7421 [egg-watcher:application] watcher start success
+2020-12-28 14:32:37,728 INFO 7421 [egg:core] dump config after ready, 4ms
+2020-12-28 14:34:03,282 INFO 7448 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:34:03,300 INFO 7448 [egg-multipart] stream mode enable
+2020-12-28 14:34:03,347 INFO 7448 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:34:03,349 INFO 7448 [egg-security] use methodnoallow middleware
+2020-12-28 14:34:03,349 INFO 7448 [egg-security] use noopen middleware
+2020-12-28 14:34:03,349 INFO 7448 [egg-security] use nosniff middleware
+2020-12-28 14:34:03,350 INFO 7448 [egg-security] use xssProtection middleware
+2020-12-28 14:34:03,350 INFO 7448 [egg-security] use xframe middleware
+2020-12-28 14:34:03,350 INFO 7448 [egg-security] use dta middleware
+2020-12-28 14:34:03,350 INFO 7448 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:34:03,356 INFO 7448 [egg:core] dump config after load, 3ms
+2020-12-28 14:34:03,364 INFO 7448 [egg-watcher:application] watcher start success
+2020-12-28 14:34:03,369 INFO 7448 [egg:core] dump config after ready, 3ms
+2020-12-28 14:34:52,990 INFO 7464 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:34:53,008 INFO 7464 [egg-multipart] stream mode enable
+2020-12-28 14:34:53,058 INFO 7464 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:34:53,060 INFO 7464 [egg-security] use methodnoallow middleware
+2020-12-28 14:34:53,060 INFO 7464 [egg-security] use noopen middleware
+2020-12-28 14:34:53,061 INFO 7464 [egg-security] use nosniff middleware
+2020-12-28 14:34:53,061 INFO 7464 [egg-security] use xssProtection middleware
+2020-12-28 14:34:53,061 INFO 7464 [egg-security] use xframe middleware
+2020-12-28 14:34:53,061 INFO 7464 [egg-security] use dta middleware
+2020-12-28 14:34:53,061 INFO 7464 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:34:53,071 INFO 7464 [egg:core] dump config after load, 3ms
+2020-12-28 14:34:53,081 INFO 7464 [egg-watcher:application] watcher start success
+2020-12-28 14:34:53,087 INFO 7464 [egg:core] dump config after ready, 4ms
+2020-12-28 14:35:49,272 INFO 7481 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:35:49,294 INFO 7481 [egg-multipart] stream mode enable
+2020-12-28 14:35:49,350 INFO 7481 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:35:49,352 INFO 7481 [egg-security] use methodnoallow middleware
+2020-12-28 14:35:49,352 INFO 7481 [egg-security] use noopen middleware
+2020-12-28 14:35:49,353 INFO 7481 [egg-security] use nosniff middleware
+2020-12-28 14:35:49,353 INFO 7481 [egg-security] use xssProtection middleware
+2020-12-28 14:35:49,353 INFO 7481 [egg-security] use xframe middleware
+2020-12-28 14:35:49,353 INFO 7481 [egg-security] use dta middleware
+2020-12-28 14:35:49,354 INFO 7481 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:35:49,363 INFO 7481 [egg:core] dump config after load, 4ms
+2020-12-28 14:35:49,373 INFO 7481 [egg-watcher:application] watcher start success
+2020-12-28 14:35:49,379 INFO 7481 [egg:core] dump config after ready, 4ms
+2020-12-28 14:36:09,744 INFO 7492 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:36:09,772 INFO 7492 [egg-multipart] stream mode enable
+2020-12-28 14:36:09,835 INFO 7492 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:36:09,836 INFO 7492 [egg-security] use methodnoallow middleware
+2020-12-28 14:36:09,837 INFO 7492 [egg-security] use noopen middleware
+2020-12-28 14:36:09,837 INFO 7492 [egg-security] use nosniff middleware
+2020-12-28 14:36:09,837 INFO 7492 [egg-security] use xssProtection middleware
+2020-12-28 14:36:09,838 INFO 7492 [egg-security] use xframe middleware
+2020-12-28 14:36:09,838 INFO 7492 [egg-security] use dta middleware
+2020-12-28 14:36:09,838 INFO 7492 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:36:09,849 INFO 7492 [egg:core] dump config after load, 4ms
+2020-12-28 14:36:09,860 INFO 7492 [egg-watcher:application] watcher start success
+2020-12-28 14:36:09,865 INFO 7492 [egg:core] dump config after ready, 4ms
+2020-12-28 14:37:30,910 INFO 7504 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:37:30,927 INFO 7504 [egg-multipart] stream mode enable
+2020-12-28 14:37:30,975 INFO 7504 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:37:30,976 INFO 7504 [egg-security] use methodnoallow middleware
+2020-12-28 14:37:30,977 INFO 7504 [egg-security] use noopen middleware
+2020-12-28 14:37:30,977 INFO 7504 [egg-security] use nosniff middleware
+2020-12-28 14:37:30,977 INFO 7504 [egg-security] use xssProtection middleware
+2020-12-28 14:37:30,978 INFO 7504 [egg-security] use xframe middleware
+2020-12-28 14:37:30,978 INFO 7504 [egg-security] use dta middleware
+2020-12-28 14:37:30,978 INFO 7504 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:37:30,986 INFO 7504 [egg:core] dump config after load, 3ms
+2020-12-28 14:37:30,994 INFO 7504 [egg-watcher:application] watcher start success
+2020-12-28 14:37:30,999 INFO 7504 [egg:core] dump config after ready, 3ms
+2020-12-28 14:41:08,977 INFO 7599 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:41:09,000 INFO 7599 [egg-multipart] stream mode enable
+2020-12-28 14:41:09,060 INFO 7599 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:41:09,061 INFO 7599 [egg-security] use methodnoallow middleware
+2020-12-28 14:41:09,062 INFO 7599 [egg-security] use noopen middleware
+2020-12-28 14:41:09,062 INFO 7599 [egg-security] use nosniff middleware
+2020-12-28 14:41:09,062 INFO 7599 [egg-security] use xssProtection middleware
+2020-12-28 14:41:09,063 INFO 7599 [egg-security] use xframe middleware
+2020-12-28 14:41:09,063 INFO 7599 [egg-security] use dta middleware
+2020-12-28 14:41:09,063 INFO 7599 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:41:09,073 INFO 7599 [egg:core] dump config after load, 4ms
+2020-12-28 14:41:09,084 INFO 7599 [egg-watcher:application] watcher start success
+2020-12-28 14:41:09,090 INFO 7599 [egg:core] dump config after ready, 5ms
+2020-12-28 14:42:16,903 INFO 7639 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:42:16,923 INFO 7639 [egg-multipart] stream mode enable
+2020-12-28 14:42:16,973 INFO 7639 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:42:16,974 INFO 7639 [egg-security] use methodnoallow middleware
+2020-12-28 14:42:16,975 INFO 7639 [egg-security] use noopen middleware
+2020-12-28 14:42:16,975 INFO 7639 [egg-security] use nosniff middleware
+2020-12-28 14:42:16,975 INFO 7639 [egg-security] use xssProtection middleware
+2020-12-28 14:42:16,975 INFO 7639 [egg-security] use xframe middleware
+2020-12-28 14:42:16,976 INFO 7639 [egg-security] use dta middleware
+2020-12-28 14:42:16,976 INFO 7639 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:42:16,984 INFO 7639 [egg:core] dump config after load, 3ms
+2020-12-28 14:42:16,993 INFO 7639 [egg-watcher:application] watcher start success
+2020-12-28 14:42:16,999 INFO 7639 [egg:core] dump config after ready, 3ms
+2020-12-28 14:42:48,201 INFO 7655 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:42:48,219 INFO 7655 [egg-multipart] stream mode enable
+2020-12-28 14:42:48,269 INFO 7655 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:42:48,270 INFO 7655 [egg-security] use methodnoallow middleware
+2020-12-28 14:42:48,270 INFO 7655 [egg-security] use noopen middleware
+2020-12-28 14:42:48,271 INFO 7655 [egg-security] use nosniff middleware
+2020-12-28 14:42:48,271 INFO 7655 [egg-security] use xssProtection middleware
+2020-12-28 14:42:48,271 INFO 7655 [egg-security] use xframe middleware
+2020-12-28 14:42:48,272 INFO 7655 [egg-security] use dta middleware
+2020-12-28 14:42:48,272 INFO 7655 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:42:48,280 INFO 7655 [egg:core] dump config after load, 3ms
+2020-12-28 14:42:48,289 INFO 7655 [egg-watcher:application] watcher start success
+2020-12-28 14:42:48,294 INFO 7655 [egg:core] dump config after ready, 4ms
+2020-12-28 14:43:35,019 INFO 7659 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:43:35,041 INFO 7659 [egg-multipart] stream mode enable
+2020-12-28 14:43:35,097 INFO 7659 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:43:35,099 INFO 7659 [egg-security] use methodnoallow middleware
+2020-12-28 14:43:35,099 INFO 7659 [egg-security] use noopen middleware
+2020-12-28 14:43:35,099 INFO 7659 [egg-security] use nosniff middleware
+2020-12-28 14:43:35,100 INFO 7659 [egg-security] use xssProtection middleware
+2020-12-28 14:43:35,100 INFO 7659 [egg-security] use xframe middleware
+2020-12-28 14:43:35,100 INFO 7659 [egg-security] use dta middleware
+2020-12-28 14:43:35,100 INFO 7659 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:43:35,110 INFO 7659 [egg:core] dump config after load, 3ms
+2020-12-28 14:43:35,120 INFO 7659 [egg-watcher:application] watcher start success
+2020-12-28 14:43:35,125 INFO 7659 [egg:core] dump config after ready, 3ms
+2020-12-28 14:44:23,730 INFO 7680 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:44:23,753 INFO 7680 [egg-multipart] stream mode enable
+2020-12-28 14:44:23,811 INFO 7680 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:44:23,812 INFO 7680 [egg-security] use methodnoallow middleware
+2020-12-28 14:44:23,813 INFO 7680 [egg-security] use noopen middleware
+2020-12-28 14:44:23,813 INFO 7680 [egg-security] use nosniff middleware
+2020-12-28 14:44:23,813 INFO 7680 [egg-security] use xssProtection middleware
+2020-12-28 14:44:23,814 INFO 7680 [egg-security] use xframe middleware
+2020-12-28 14:44:23,814 INFO 7680 [egg-security] use dta middleware
+2020-12-28 14:44:23,814 INFO 7680 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:44:23,825 INFO 7680 [egg:core] dump config after load, 5ms
+2020-12-28 14:44:23,835 INFO 7680 [egg-watcher:application] watcher start success
+2020-12-28 14:44:23,841 INFO 7680 [egg:core] dump config after ready, 4ms
+2020-12-28 14:45:13,691 INFO 7689 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:45:13,713 INFO 7689 [egg-multipart] stream mode enable
+2020-12-28 14:45:13,770 INFO 7689 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:45:13,772 INFO 7689 [egg-security] use methodnoallow middleware
+2020-12-28 14:45:13,772 INFO 7689 [egg-security] use noopen middleware
+2020-12-28 14:45:13,772 INFO 7689 [egg-security] use nosniff middleware
+2020-12-28 14:45:13,773 INFO 7689 [egg-security] use xssProtection middleware
+2020-12-28 14:45:13,773 INFO 7689 [egg-security] use xframe middleware
+2020-12-28 14:45:13,773 INFO 7689 [egg-security] use dta middleware
+2020-12-28 14:45:13,773 INFO 7689 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:45:13,784 INFO 7689 [egg:core] dump config after load, 4ms
+2020-12-28 14:45:13,794 INFO 7689 [egg-watcher:application] watcher start success
+2020-12-28 14:45:13,799 INFO 7689 [egg:core] dump config after ready, 4ms
+2020-12-28 14:45:51,754 INFO 7704 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:45:51,774 INFO 7704 [egg-multipart] stream mode enable
+2020-12-28 14:45:51,829 INFO 7704 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:45:51,831 INFO 7704 [egg-security] use methodnoallow middleware
+2020-12-28 14:45:51,831 INFO 7704 [egg-security] use noopen middleware
+2020-12-28 14:45:51,831 INFO 7704 [egg-security] use nosniff middleware
+2020-12-28 14:45:51,832 INFO 7704 [egg-security] use xssProtection middleware
+2020-12-28 14:45:51,832 INFO 7704 [egg-security] use xframe middleware
+2020-12-28 14:45:51,832 INFO 7704 [egg-security] use dta middleware
+2020-12-28 14:45:51,832 INFO 7704 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:45:51,842 INFO 7704 [egg:core] dump config after load, 3ms
+2020-12-28 14:45:51,853 INFO 7704 [egg-watcher:application] watcher start success
+2020-12-28 14:45:51,858 INFO 7704 [egg:core] dump config after ready, 4ms
+2020-12-28 14:47:21,369 INFO 7719 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:47:21,387 INFO 7719 [egg-multipart] stream mode enable
+2020-12-28 14:47:21,435 INFO 7719 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:47:21,436 INFO 7719 [egg-security] use methodnoallow middleware
+2020-12-28 14:47:21,437 INFO 7719 [egg-security] use noopen middleware
+2020-12-28 14:47:21,437 INFO 7719 [egg-security] use nosniff middleware
+2020-12-28 14:47:21,437 INFO 7719 [egg-security] use xssProtection middleware
+2020-12-28 14:47:21,438 INFO 7719 [egg-security] use xframe middleware
+2020-12-28 14:47:21,438 INFO 7719 [egg-security] use dta middleware
+2020-12-28 14:47:21,438 INFO 7719 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:47:21,447 INFO 7719 [egg:core] dump config after load, 4ms
+2020-12-28 14:47:21,455 INFO 7719 [egg-watcher:application] watcher start success
+2020-12-28 14:47:21,460 INFO 7719 [egg:core] dump config after ready, 3ms
+2020-12-28 14:49:53,218 INFO 7751 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:49:53,236 INFO 7751 [egg-multipart] stream mode enable
+2020-12-28 14:49:53,286 INFO 7751 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:49:53,287 INFO 7751 [egg-security] use methodnoallow middleware
+2020-12-28 14:49:53,288 INFO 7751 [egg-security] use noopen middleware
+2020-12-28 14:49:53,288 INFO 7751 [egg-security] use nosniff middleware
+2020-12-28 14:49:53,288 INFO 7751 [egg-security] use xssProtection middleware
+2020-12-28 14:49:53,289 INFO 7751 [egg-security] use xframe middleware
+2020-12-28 14:49:53,289 INFO 7751 [egg-security] use dta middleware
+2020-12-28 14:49:53,289 INFO 7751 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:49:53,298 INFO 7751 [egg:core] dump config after load, 4ms
+2020-12-28 14:49:53,307 INFO 7751 [egg-watcher:application] watcher start success
+2020-12-28 14:49:53,312 INFO 7751 [egg:core] dump config after ready, 4ms
+2020-12-28 14:49:58,687 INFO 7754 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:49:58,710 INFO 7754 [egg-multipart] stream mode enable
+2020-12-28 14:49:58,772 INFO 7754 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:49:58,774 INFO 7754 [egg-security] use methodnoallow middleware
+2020-12-28 14:49:58,774 INFO 7754 [egg-security] use noopen middleware
+2020-12-28 14:49:58,774 INFO 7754 [egg-security] use nosniff middleware
+2020-12-28 14:49:58,775 INFO 7754 [egg-security] use xssProtection middleware
+2020-12-28 14:49:58,775 INFO 7754 [egg-security] use xframe middleware
+2020-12-28 14:49:58,775 INFO 7754 [egg-security] use dta middleware
+2020-12-28 14:49:58,775 INFO 7754 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:49:58,787 INFO 7754 [egg:core] dump config after load, 4ms
+2020-12-28 14:49:58,797 INFO 7754 [egg-watcher:application] watcher start success
+2020-12-28 14:49:58,803 INFO 7754 [egg:core] dump config after ready, 4ms
+2020-12-28 14:50:38,845 INFO 7759 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:50:38,864 INFO 7759 [egg-multipart] stream mode enable
+2020-12-28 14:50:38,912 INFO 7759 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:50:38,913 INFO 7759 [egg-security] use methodnoallow middleware
+2020-12-28 14:50:38,914 INFO 7759 [egg-security] use noopen middleware
+2020-12-28 14:50:38,914 INFO 7759 [egg-security] use nosniff middleware
+2020-12-28 14:50:38,914 INFO 7759 [egg-security] use xssProtection middleware
+2020-12-28 14:50:38,914 INFO 7759 [egg-security] use xframe middleware
+2020-12-28 14:50:38,915 INFO 7759 [egg-security] use dta middleware
+2020-12-28 14:50:38,915 INFO 7759 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:50:38,923 INFO 7759 [egg:core] dump config after load, 3ms
+2020-12-28 14:50:38,932 INFO 7759 [egg-watcher:application] watcher start success
+2020-12-28 14:50:38,938 INFO 7759 [egg:core] dump config after ready, 4ms
+2020-12-28 14:52:46,836 INFO 7779 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:52:46,854 INFO 7779 [egg-multipart] stream mode enable
+2020-12-28 14:52:46,902 INFO 7779 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:52:46,903 INFO 7779 [egg-security] use methodnoallow middleware
+2020-12-28 14:52:46,904 INFO 7779 [egg-security] use noopen middleware
+2020-12-28 14:52:46,904 INFO 7779 [egg-security] use nosniff middleware
+2020-12-28 14:52:46,904 INFO 7779 [egg-security] use xssProtection middleware
+2020-12-28 14:52:46,905 INFO 7779 [egg-security] use xframe middleware
+2020-12-28 14:52:46,905 INFO 7779 [egg-security] use dta middleware
+2020-12-28 14:52:46,905 INFO 7779 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:52:46,914 INFO 7779 [egg:core] dump config after load, 4ms
+2020-12-28 14:52:46,922 INFO 7779 [egg-watcher:application] watcher start success
+2020-12-28 14:52:46,928 INFO 7779 [egg:core] dump config after ready, 4ms
+2020-12-28 14:53:33,196 INFO 7791 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:53:33,215 INFO 7791 [egg-multipart] stream mode enable
+2020-12-28 14:53:33,263 INFO 7791 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:53:33,264 INFO 7791 [egg-security] use methodnoallow middleware
+2020-12-28 14:53:33,264 INFO 7791 [egg-security] use noopen middleware
+2020-12-28 14:53:33,265 INFO 7791 [egg-security] use nosniff middleware
+2020-12-28 14:53:33,265 INFO 7791 [egg-security] use xssProtection middleware
+2020-12-28 14:53:33,265 INFO 7791 [egg-security] use xframe middleware
+2020-12-28 14:53:33,265 INFO 7791 [egg-security] use dta middleware
+2020-12-28 14:53:33,265 INFO 7791 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:53:33,274 INFO 7791 [egg:core] dump config after load, 3ms
+2020-12-28 14:53:33,282 INFO 7791 [egg-watcher:application] watcher start success
+2020-12-28 14:53:33,287 INFO 7791 [egg:core] dump config after ready, 3ms
+2020-12-28 14:53:42,267 INFO 7797 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:53:42,284 INFO 7797 [egg-multipart] stream mode enable
+2020-12-28 14:53:42,332 INFO 7797 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:53:42,334 INFO 7797 [egg-security] use methodnoallow middleware
+2020-12-28 14:53:42,334 INFO 7797 [egg-security] use noopen middleware
+2020-12-28 14:53:42,334 INFO 7797 [egg-security] use nosniff middleware
+2020-12-28 14:53:42,334 INFO 7797 [egg-security] use xssProtection middleware
+2020-12-28 14:53:42,335 INFO 7797 [egg-security] use xframe middleware
+2020-12-28 14:53:42,335 INFO 7797 [egg-security] use dta middleware
+2020-12-28 14:53:42,335 INFO 7797 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:53:42,343 INFO 7797 [egg:core] dump config after load, 3ms
+2020-12-28 14:53:42,352 INFO 7797 [egg-watcher:application] watcher start success
+2020-12-28 14:53:42,357 INFO 7797 [egg:core] dump config after ready, 4ms
+2020-12-28 14:54:25,242 INFO 7809 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:54:25,263 INFO 7809 [egg-multipart] stream mode enable
+2020-12-28 14:54:25,310 INFO 7809 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:54:25,311 INFO 7809 [egg-security] use methodnoallow middleware
+2020-12-28 14:54:25,312 INFO 7809 [egg-security] use noopen middleware
+2020-12-28 14:54:25,312 INFO 7809 [egg-security] use nosniff middleware
+2020-12-28 14:54:25,312 INFO 7809 [egg-security] use xssProtection middleware
+2020-12-28 14:54:25,312 INFO 7809 [egg-security] use xframe middleware
+2020-12-28 14:54:25,313 INFO 7809 [egg-security] use dta middleware
+2020-12-28 14:54:25,313 INFO 7809 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:54:25,321 INFO 7809 [egg:core] dump config after load, 3ms
+2020-12-28 14:54:25,330 INFO 7809 [egg-watcher:application] watcher start success
+2020-12-28 14:54:25,335 INFO 7809 [egg:core] dump config after ready, 4ms
+2020-12-28 14:55:05,258 INFO 7822 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:55:05,278 INFO 7822 [egg-multipart] stream mode enable
+2020-12-28 14:55:05,333 INFO 7822 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:55:05,335 INFO 7822 [egg-security] use methodnoallow middleware
+2020-12-28 14:55:05,335 INFO 7822 [egg-security] use noopen middleware
+2020-12-28 14:55:05,335 INFO 7822 [egg-security] use nosniff middleware
+2020-12-28 14:55:05,336 INFO 7822 [egg-security] use xssProtection middleware
+2020-12-28 14:55:05,336 INFO 7822 [egg-security] use xframe middleware
+2020-12-28 14:55:05,336 INFO 7822 [egg-security] use dta middleware
+2020-12-28 14:55:05,336 INFO 7822 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:55:05,346 INFO 7822 [egg:core] dump config after load, 4ms
+2020-12-28 14:55:05,354 INFO 7822 [egg-watcher:application] watcher start success
+2020-12-28 14:55:05,360 INFO 7822 [egg:core] dump config after ready, 4ms
+2020-12-28 14:55:07,376 INFO 7825 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:55:07,395 INFO 7825 [egg-multipart] stream mode enable
+2020-12-28 14:55:07,442 INFO 7825 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:55:07,444 INFO 7825 [egg-security] use methodnoallow middleware
+2020-12-28 14:55:07,444 INFO 7825 [egg-security] use noopen middleware
+2020-12-28 14:55:07,444 INFO 7825 [egg-security] use nosniff middleware
+2020-12-28 14:55:07,445 INFO 7825 [egg-security] use xssProtection middleware
+2020-12-28 14:55:07,445 INFO 7825 [egg-security] use xframe middleware
+2020-12-28 14:55:07,445 INFO 7825 [egg-security] use dta middleware
+2020-12-28 14:55:07,445 INFO 7825 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:55:07,453 INFO 7825 [egg:core] dump config after load, 3ms
+2020-12-28 14:55:07,462 INFO 7825 [egg-watcher:application] watcher start success
+2020-12-28 14:55:07,467 INFO 7825 [egg:core] dump config after ready, 3ms
+2020-12-28 14:56:22,839 INFO 7835 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:56:22,857 INFO 7835 [egg-multipart] stream mode enable
+2020-12-28 14:56:22,906 INFO 7835 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:56:22,907 INFO 7835 [egg-security] use methodnoallow middleware
+2020-12-28 14:56:22,907 INFO 7835 [egg-security] use noopen middleware
+2020-12-28 14:56:22,908 INFO 7835 [egg-security] use nosniff middleware
+2020-12-28 14:56:22,908 INFO 7835 [egg-security] use xssProtection middleware
+2020-12-28 14:56:22,908 INFO 7835 [egg-security] use xframe middleware
+2020-12-28 14:56:22,908 INFO 7835 [egg-security] use dta middleware
+2020-12-28 14:56:22,908 INFO 7835 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:56:22,917 INFO 7835 [egg:core] dump config after load, 3ms
+2020-12-28 14:56:22,927 INFO 7835 [egg-watcher:application] watcher start success
+2020-12-28 14:56:22,933 INFO 7835 [egg:core] dump config after ready, 4ms
+2020-12-28 14:57:11,540 INFO 7852 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:57:11,557 INFO 7852 [egg-multipart] stream mode enable
+2020-12-28 14:57:11,604 INFO 7852 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:57:11,605 INFO 7852 [egg-security] use methodnoallow middleware
+2020-12-28 14:57:11,605 INFO 7852 [egg-security] use noopen middleware
+2020-12-28 14:57:11,606 INFO 7852 [egg-security] use nosniff middleware
+2020-12-28 14:57:11,606 INFO 7852 [egg-security] use xssProtection middleware
+2020-12-28 14:57:11,606 INFO 7852 [egg-security] use xframe middleware
+2020-12-28 14:57:11,606 INFO 7852 [egg-security] use dta middleware
+2020-12-28 14:57:11,606 INFO 7852 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:57:11,615 INFO 7852 [egg:core] dump config after load, 3ms
+2020-12-28 14:57:11,623 INFO 7852 [egg-watcher:application] watcher start success
+2020-12-28 14:57:11,628 INFO 7852 [egg:core] dump config after ready, 3ms
+2020-12-28 14:57:19,564 INFO 7856 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:57:19,585 INFO 7856 [egg-multipart] stream mode enable
+2020-12-28 14:57:19,642 INFO 7856 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:57:19,644 INFO 7856 [egg-security] use methodnoallow middleware
+2020-12-28 14:57:19,645 INFO 7856 [egg-security] use noopen middleware
+2020-12-28 14:57:19,645 INFO 7856 [egg-security] use nosniff middleware
+2020-12-28 14:57:19,645 INFO 7856 [egg-security] use xssProtection middleware
+2020-12-28 14:57:19,645 INFO 7856 [egg-security] use xframe middleware
+2020-12-28 14:57:19,646 INFO 7856 [egg-security] use dta middleware
+2020-12-28 14:57:19,646 INFO 7856 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:57:19,655 INFO 7856 [egg:core] dump config after load, 3ms
+2020-12-28 14:57:19,665 INFO 7856 [egg-watcher:application] watcher start success
+2020-12-28 14:57:19,671 INFO 7856 [egg:core] dump config after ready, 5ms
+2020-12-28 14:57:30,803 INFO 7858 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 14:57:30,821 INFO 7858 [egg-multipart] stream mode enable
+2020-12-28 14:57:30,867 INFO 7858 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 14:57:30,868 INFO 7858 [egg-security] use methodnoallow middleware
+2020-12-28 14:57:30,869 INFO 7858 [egg-security] use noopen middleware
+2020-12-28 14:57:30,869 INFO 7858 [egg-security] use nosniff middleware
+2020-12-28 14:57:30,869 INFO 7858 [egg-security] use xssProtection middleware
+2020-12-28 14:57:30,869 INFO 7858 [egg-security] use xframe middleware
+2020-12-28 14:57:30,870 INFO 7858 [egg-security] use dta middleware
+2020-12-28 14:57:30,870 INFO 7858 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 14:57:30,878 INFO 7858 [egg:core] dump config after load, 3ms
+2020-12-28 14:57:30,888 INFO 7858 [egg-watcher:application] watcher start success
+2020-12-28 14:57:30,893 INFO 7858 [egg:core] dump config after ready, 4ms
+2020-12-28 15:18:59,432 INFO 9215 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:18:59,458 INFO 9215 [egg-multipart] stream mode enable
+2020-12-28 15:18:59,574 INFO 9215 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:18:59,575 INFO 9215 [egg-security] use methodnoallow middleware
+2020-12-28 15:18:59,576 INFO 9215 [egg-security] use noopen middleware
+2020-12-28 15:18:59,577 INFO 9215 [egg-security] use nosniff middleware
+2020-12-28 15:18:59,577 INFO 9215 [egg-security] use xssProtection middleware
+2020-12-28 15:18:59,578 INFO 9215 [egg-security] use xframe middleware
+2020-12-28 15:18:59,579 INFO 9215 [egg-security] use dta middleware
+2020-12-28 15:18:59,579 INFO 9215 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:18:59,589 INFO 9215 [egg:core] dump config after load, 4ms
+2020-12-28 15:18:59,598 INFO 9215 [egg-watcher:application] watcher start success
+2020-12-28 15:18:59,603 INFO 9215 [egg:core] dump config after ready, 4ms
+2020-12-28 15:23:56,235 INFO 9278 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:23:56,261 INFO 9278 [egg-multipart] stream mode enable
+2020-12-28 15:23:56,370 INFO 9278 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:23:56,372 INFO 9278 [egg-security] use methodnoallow middleware
+2020-12-28 15:23:56,372 INFO 9278 [egg-security] use noopen middleware
+2020-12-28 15:23:56,373 INFO 9278 [egg-security] use nosniff middleware
+2020-12-28 15:23:56,373 INFO 9278 [egg-security] use xssProtection middleware
+2020-12-28 15:23:56,374 INFO 9278 [egg-security] use xframe middleware
+2020-12-28 15:23:56,375 INFO 9278 [egg-security] use dta middleware
+2020-12-28 15:23:56,375 INFO 9278 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:23:56,387 INFO 9278 [egg:core] dump config after load, 5ms
+2020-12-28 15:23:56,398 INFO 9278 [egg-watcher:application] watcher start success
+2020-12-28 15:23:56,405 INFO 9278 [egg:core] dump config after ready, 5ms
+2020-12-28 15:24:20,009 INFO 9290 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:24:20,031 INFO 9290 [egg-multipart] stream mode enable
+2020-12-28 15:24:20,100 INFO 9290 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:24:20,103 INFO 9290 [egg-security] use methodnoallow middleware
+2020-12-28 15:24:20,103 INFO 9290 [egg-security] use noopen middleware
+2020-12-28 15:24:20,104 INFO 9290 [egg-security] use nosniff middleware
+2020-12-28 15:24:20,105 INFO 9290 [egg-security] use xssProtection middleware
+2020-12-28 15:24:20,106 INFO 9290 [egg-security] use xframe middleware
+2020-12-28 15:24:20,106 INFO 9290 [egg-security] use dta middleware
+2020-12-28 15:24:20,107 INFO 9290 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:24:20,118 INFO 9290 [egg:core] dump config after load, 4ms
+2020-12-28 15:24:20,128 INFO 9290 [egg-watcher:application] watcher start success
+2020-12-28 15:24:20,134 INFO 9290 [egg:core] dump config after ready, 4ms
+2020-12-28 15:26:25,357 INFO 9565 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:26:25,379 INFO 9565 [egg-multipart] stream mode enable
+2020-12-28 15:26:25,706 INFO 9565 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:26:25,708 INFO 9565 [egg-security] use methodnoallow middleware
+2020-12-28 15:26:25,709 INFO 9565 [egg-security] use noopen middleware
+2020-12-28 15:26:25,710 INFO 9565 [egg-security] use nosniff middleware
+2020-12-28 15:26:25,710 INFO 9565 [egg-security] use xssProtection middleware
+2020-12-28 15:26:25,711 INFO 9565 [egg-security] use xframe middleware
+2020-12-28 15:26:25,712 INFO 9565 [egg-security] use dta middleware
+2020-12-28 15:26:25,712 INFO 9565 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:26:25,723 INFO 9565 [egg:core] dump config after load, 4ms
+2020-12-28 15:26:25,731 INFO 9565 [egg-watcher:application] watcher start success
+2020-12-28 15:26:25,736 INFO 9565 [egg:core] dump config after ready, 4ms
+2020-12-28 15:26:40,864 INFO 9571 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:26:40,885 INFO 9571 [egg-multipart] stream mode enable
+2020-12-28 15:26:41,087 INFO 9571 [egg-mongoose] connecting mongodb://你的mongodb地址/apiExample
+2020-12-28 15:26:41,145 INFO 9571 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:26:41,147 INFO 9571 [egg-security] use methodnoallow middleware
+2020-12-28 15:26:41,147 INFO 9571 [egg-security] use noopen middleware
+2020-12-28 15:26:41,148 INFO 9571 [egg-security] use nosniff middleware
+2020-12-28 15:26:41,148 INFO 9571 [egg-security] use xssProtection middleware
+2020-12-28 15:26:41,148 INFO 9571 [egg-security] use xframe middleware
+2020-12-28 15:26:41,148 INFO 9571 [egg-security] use dta middleware
+2020-12-28 15:26:41,148 INFO 9571 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:26:41,157 INFO 9571 [egg:core] dump config after load, 3ms
+2020-12-28 15:26:41,159 INFO 9571 [egg-mongoose] starting...
+2020-12-28 15:26:41,165 INFO 9571 [egg-watcher:application] watcher start success
+2020-12-28 15:26:41,169 ERROR 9571 [egg-mongoose] mongodb://你的mongodb地址/apiExample disconnected
+2020-12-28 15:26:41,170 ERROR 9571 nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [xn--mongodb-l45k149cue9436a:27017] on first connect [Error: getaddrinfo ENOTFOUND xn--mongodb-l45k149cue9436a
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at Pool.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:995:11
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:32:7
+    at callback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:280:5)
+    at Socket.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:310:7)
+    at Object.onceWrapper (events.js:422:26)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+name: "MongoNetworkError"
+pid: 9571
+hostname: chengsen.local
+
+2020-12-28 15:26:41,172 ERROR 9571 nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [xn--mongodb-l45k149cue9436a:27017] on first connect [Error: getaddrinfo ENOTFOUND xn--mongodb-l45k149cue9436a
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at Pool.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:995:11
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:32:7
+    at callback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:280:5)
+    at Socket.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:310:7)
+    at Object.onceWrapper (events.js:422:26)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+name: "MongoNetworkError"
+pid: 9571
+hostname: chengsen.local
+
+2020-12-28 15:26:41,179 INFO 9571 [egg:core] dump config after ready, 3ms
+2020-12-28 15:26:50,992 INFO 9575 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:26:51,011 INFO 9575 [egg-multipart] stream mode enable
+2020-12-28 15:26:51,201 INFO 9575 [egg-mongoose] connecting mongodb://127.0.0.1:/apiExample
+2020-12-28 15:26:51,275 INFO 9575 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:26:51,277 INFO 9575 [egg-security] use methodnoallow middleware
+2020-12-28 15:26:51,277 INFO 9575 [egg-security] use noopen middleware
+2020-12-28 15:26:51,277 INFO 9575 [egg-security] use nosniff middleware
+2020-12-28 15:26:51,278 INFO 9575 [egg-security] use xssProtection middleware
+2020-12-28 15:26:51,278 INFO 9575 [egg-security] use xframe middleware
+2020-12-28 15:26:51,278 INFO 9575 [egg-security] use dta middleware
+2020-12-28 15:26:51,278 INFO 9575 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:26:51,289 INFO 9575 [egg:core] dump config after load, 4ms
+2020-12-28 15:26:51,292 INFO 9575 [egg-mongoose] starting...
+2020-12-28 15:26:51,304 INFO 9575 [egg-mongoose] mongodb://127.0.0.1:/apiExample connected successfully
+2020-12-28 15:26:51,305 INFO 9575 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:26:51,307 INFO 9575 [egg-watcher:application] watcher start success
+2020-12-28 15:26:51,313 INFO 9575 [egg:core] dump config after ready, 4ms
+2020-12-28 15:27:07,585 INFO 9577 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:27:07,604 INFO 9577 [egg-multipart] stream mode enable
+2020-12-28 15:27:07,770 INFO 9577 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:27:07,829 INFO 9577 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:27:07,831 INFO 9577 [egg-security] use methodnoallow middleware
+2020-12-28 15:27:07,831 INFO 9577 [egg-security] use noopen middleware
+2020-12-28 15:27:07,831 INFO 9577 [egg-security] use nosniff middleware
+2020-12-28 15:27:07,831 INFO 9577 [egg-security] use xssProtection middleware
+2020-12-28 15:27:07,832 INFO 9577 [egg-security] use xframe middleware
+2020-12-28 15:27:07,832 INFO 9577 [egg-security] use dta middleware
+2020-12-28 15:27:07,832 INFO 9577 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:27:07,841 INFO 9577 [egg:core] dump config after load, 4ms
+2020-12-28 15:27:07,843 INFO 9577 [egg-mongoose] starting...
+2020-12-28 15:27:07,852 INFO 9577 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:27:07,852 INFO 9577 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:27:07,854 INFO 9577 [egg-watcher:application] watcher start success
+2020-12-28 15:27:07,859 INFO 9577 [egg:core] dump config after ready, 3ms
+2020-12-28 15:27:38,691 INFO 9589 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:27:38,709 INFO 9589 [egg-multipart] stream mode enable
+2020-12-28 15:27:38,879 INFO 9589 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:27:38,934 INFO 9589 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:27:38,935 INFO 9589 [egg-security] use methodnoallow middleware
+2020-12-28 15:27:38,936 INFO 9589 [egg-security] use noopen middleware
+2020-12-28 15:27:38,936 INFO 9589 [egg-security] use nosniff middleware
+2020-12-28 15:27:38,936 INFO 9589 [egg-security] use xssProtection middleware
+2020-12-28 15:27:38,936 INFO 9589 [egg-security] use xframe middleware
+2020-12-28 15:27:38,937 INFO 9589 [egg-security] use dta middleware
+2020-12-28 15:27:38,937 INFO 9589 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:27:38,945 INFO 9589 [egg:core] dump config after load, 3ms
+2020-12-28 15:27:38,947 INFO 9589 [egg-mongoose] starting...
+2020-12-28 15:27:38,957 INFO 9589 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:27:38,957 INFO 9589 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:27:38,959 INFO 9589 [egg-watcher:application] watcher start success
+2020-12-28 15:27:38,964 INFO 9589 [egg:core] dump config after ready, 4ms
+2020-12-28 15:28:01,108 INFO 9593 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:28:01,126 INFO 9593 [egg-multipart] stream mode enable
+2020-12-28 15:28:01,289 INFO 9593 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:28:01,343 INFO 9593 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:28:01,344 INFO 9593 [egg-security] use methodnoallow middleware
+2020-12-28 15:28:01,344 INFO 9593 [egg-security] use noopen middleware
+2020-12-28 15:28:01,345 INFO 9593 [egg-security] use nosniff middleware
+2020-12-28 15:28:01,345 INFO 9593 [egg-security] use xssProtection middleware
+2020-12-28 15:28:01,346 INFO 9593 [egg-security] use xframe middleware
+2020-12-28 15:28:01,346 INFO 9593 [egg-security] use dta middleware
+2020-12-28 15:28:01,346 INFO 9593 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:28:01,354 INFO 9593 [egg:core] dump config after load, 3ms
+2020-12-28 15:28:01,357 INFO 9593 [egg-mongoose] starting...
+2020-12-28 15:28:01,372 INFO 9593 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:28:01,377 INFO 9593 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:28:01,378 INFO 9593 [egg-watcher:application] watcher start success
+2020-12-28 15:28:01,385 INFO 9593 [egg:core] dump config after ready, 3ms
+2020-12-28 15:28:18,309 INFO 9599 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:28:18,326 INFO 9599 [egg-multipart] stream mode enable
+2020-12-28 15:28:18,490 INFO 9599 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:28:18,545 INFO 9599 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:28:18,546 INFO 9599 [egg-security] use methodnoallow middleware
+2020-12-28 15:28:18,547 INFO 9599 [egg-security] use noopen middleware
+2020-12-28 15:28:18,547 INFO 9599 [egg-security] use nosniff middleware
+2020-12-28 15:28:18,547 INFO 9599 [egg-security] use xssProtection middleware
+2020-12-28 15:28:18,547 INFO 9599 [egg-security] use xframe middleware
+2020-12-28 15:28:18,548 INFO 9599 [egg-security] use dta middleware
+2020-12-28 15:28:18,548 INFO 9599 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:28:18,556 INFO 9599 [egg:core] dump config after load, 3ms
+2020-12-28 15:28:18,558 INFO 9599 [egg-mongoose] starting...
+2020-12-28 15:28:18,574 INFO 9599 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:28:18,579 INFO 9599 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:28:18,580 INFO 9599 [egg-watcher:application] watcher start success
+2020-12-28 15:28:18,587 INFO 9599 [egg:core] dump config after ready, 4ms
+2020-12-28 15:29:03,217 INFO 9609 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:29:03,236 INFO 9609 [egg-multipart] stream mode enable
+2020-12-28 15:29:03,402 INFO 9609 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:29:03,457 INFO 9609 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:29:03,458 INFO 9609 [egg-security] use methodnoallow middleware
+2020-12-28 15:29:03,459 INFO 9609 [egg-security] use noopen middleware
+2020-12-28 15:29:03,459 INFO 9609 [egg-security] use nosniff middleware
+2020-12-28 15:29:03,459 INFO 9609 [egg-security] use xssProtection middleware
+2020-12-28 15:29:03,459 INFO 9609 [egg-security] use xframe middleware
+2020-12-28 15:29:03,460 INFO 9609 [egg-security] use dta middleware
+2020-12-28 15:29:03,460 INFO 9609 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:29:03,468 INFO 9609 [egg:core] dump config after load, 3ms
+2020-12-28 15:29:03,470 INFO 9609 [egg-mongoose] starting...
+2020-12-28 15:29:03,485 INFO 9609 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:29:03,490 INFO 9609 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:29:03,492 INFO 9609 [egg-watcher:application] watcher start success
+2020-12-28 15:29:03,498 INFO 9609 [egg:core] dump config after ready, 3ms
+2020-12-28 15:29:14,608 INFO 9615 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:29:14,625 INFO 9615 [egg-multipart] stream mode enable
+2020-12-28 15:29:14,790 INFO 9615 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:29:14,844 INFO 9615 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:29:14,846 INFO 9615 [egg-security] use methodnoallow middleware
+2020-12-28 15:29:14,846 INFO 9615 [egg-security] use noopen middleware
+2020-12-28 15:29:14,846 INFO 9615 [egg-security] use nosniff middleware
+2020-12-28 15:29:14,847 INFO 9615 [egg-security] use xssProtection middleware
+2020-12-28 15:29:14,847 INFO 9615 [egg-security] use xframe middleware
+2020-12-28 15:29:14,847 INFO 9615 [egg-security] use dta middleware
+2020-12-28 15:29:14,847 INFO 9615 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:29:14,856 INFO 9615 [egg:core] dump config after load, 3ms
+2020-12-28 15:29:14,858 INFO 9615 [egg-mongoose] starting...
+2020-12-28 15:29:14,873 INFO 9615 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:29:14,878 INFO 9615 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:29:14,880 INFO 9615 [egg-watcher:application] watcher start success
+2020-12-28 15:29:14,886 INFO 9615 [egg:core] dump config after ready, 4ms
+2020-12-28 15:29:27,699 INFO 9623 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:29:27,718 INFO 9623 [egg-multipart] stream mode enable
+2020-12-28 15:29:27,885 INFO 9623 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:29:27,940 INFO 9623 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:29:27,941 INFO 9623 [egg-security] use methodnoallow middleware
+2020-12-28 15:29:27,942 INFO 9623 [egg-security] use noopen middleware
+2020-12-28 15:29:27,942 INFO 9623 [egg-security] use nosniff middleware
+2020-12-28 15:29:27,942 INFO 9623 [egg-security] use xssProtection middleware
+2020-12-28 15:29:27,942 INFO 9623 [egg-security] use xframe middleware
+2020-12-28 15:29:27,943 INFO 9623 [egg-security] use dta middleware
+2020-12-28 15:29:27,943 INFO 9623 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:29:27,951 INFO 9623 [egg:core] dump config after load, 3ms
+2020-12-28 15:29:27,953 INFO 9623 [egg-mongoose] starting...
+2020-12-28 15:29:27,968 INFO 9623 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:29:27,973 INFO 9623 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:29:27,975 INFO 9623 [egg-watcher:application] watcher start success
+2020-12-28 15:29:27,982 INFO 9623 [egg:core] dump config after ready, 3ms
+2020-12-28 15:29:44,640 INFO 9625 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:29:44,659 INFO 9625 [egg-multipart] stream mode enable
+2020-12-28 15:29:44,823 INFO 9625 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:29:44,880 INFO 9625 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:29:44,882 INFO 9625 [egg-security] use methodnoallow middleware
+2020-12-28 15:29:44,882 INFO 9625 [egg-security] use noopen middleware
+2020-12-28 15:29:44,882 INFO 9625 [egg-security] use nosniff middleware
+2020-12-28 15:29:44,883 INFO 9625 [egg-security] use xssProtection middleware
+2020-12-28 15:29:44,883 INFO 9625 [egg-security] use xframe middleware
+2020-12-28 15:29:44,883 INFO 9625 [egg-security] use dta middleware
+2020-12-28 15:29:44,883 INFO 9625 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:29:44,891 INFO 9625 [egg:core] dump config after load, 3ms
+2020-12-28 15:29:44,894 INFO 9625 [egg-mongoose] starting...
+2020-12-28 15:29:44,909 INFO 9625 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:29:44,914 INFO 9625 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:29:44,915 INFO 9625 [egg-watcher:application] watcher start success
+2020-12-28 15:29:44,921 INFO 9625 [egg:core] dump config after ready, 3ms
+2020-12-28 15:31:31,873 INFO 9644 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:31:31,891 INFO 9644 [egg-multipart] stream mode enable
+2020-12-28 15:31:32,062 INFO 9644 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:31:32,117 INFO 9644 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:31:32,119 INFO 9644 [egg-security] use methodnoallow middleware
+2020-12-28 15:31:32,119 INFO 9644 [egg-security] use noopen middleware
+2020-12-28 15:31:32,119 INFO 9644 [egg-security] use nosniff middleware
+2020-12-28 15:31:32,120 INFO 9644 [egg-security] use xssProtection middleware
+2020-12-28 15:31:32,120 INFO 9644 [egg-security] use xframe middleware
+2020-12-28 15:31:32,120 INFO 9644 [egg-security] use dta middleware
+2020-12-28 15:31:32,120 INFO 9644 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:31:32,129 INFO 9644 [egg:core] dump config after load, 3ms
+2020-12-28 15:31:32,131 INFO 9644 [egg-mongoose] starting...
+2020-12-28 15:31:32,147 INFO 9644 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:31:32,153 INFO 9644 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:31:32,154 INFO 9644 [egg-watcher:application] watcher start success
+2020-12-28 15:31:32,162 INFO 9644 [egg:core] dump config after ready, 4ms
+2020-12-28 15:33:03,989 INFO 9683 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:33:04,008 INFO 9683 [egg-multipart] stream mode enable
+2020-12-28 15:33:04,175 INFO 9683 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:33:04,231 INFO 9683 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:33:04,232 INFO 9683 [egg-security] use methodnoallow middleware
+2020-12-28 15:33:04,233 INFO 9683 [egg-security] use noopen middleware
+2020-12-28 15:33:04,233 INFO 9683 [egg-security] use nosniff middleware
+2020-12-28 15:33:04,233 INFO 9683 [egg-security] use xssProtection middleware
+2020-12-28 15:33:04,233 INFO 9683 [egg-security] use xframe middleware
+2020-12-28 15:33:04,234 INFO 9683 [egg-security] use dta middleware
+2020-12-28 15:33:04,234 INFO 9683 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:33:04,242 INFO 9683 [egg:core] dump config after load, 3ms
+2020-12-28 15:33:04,244 INFO 9683 [egg-mongoose] starting...
+2020-12-28 15:33:04,259 INFO 9683 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:33:04,264 INFO 9683 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:33:04,266 INFO 9683 [egg-watcher:application] watcher start success
+2020-12-28 15:33:04,273 INFO 9683 [egg:core] dump config after ready, 4ms
+2020-12-28 15:35:23,692 INFO 9750 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:35:23,713 INFO 9750 [egg-multipart] stream mode enable
+2020-12-28 15:35:23,897 INFO 9750 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:35:23,959 INFO 9750 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:35:23,961 INFO 9750 [egg-security] use methodnoallow middleware
+2020-12-28 15:35:23,961 INFO 9750 [egg-security] use noopen middleware
+2020-12-28 15:35:23,961 INFO 9750 [egg-security] use nosniff middleware
+2020-12-28 15:35:23,962 INFO 9750 [egg-security] use xssProtection middleware
+2020-12-28 15:35:23,962 INFO 9750 [egg-security] use xframe middleware
+2020-12-28 15:35:23,962 INFO 9750 [egg-security] use dta middleware
+2020-12-28 15:35:23,962 INFO 9750 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:35:23,972 INFO 9750 [egg:core] dump config after load, 4ms
+2020-12-28 15:35:23,974 INFO 9750 [egg-mongoose] starting...
+2020-12-28 15:35:23,992 INFO 9750 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:35:23,998 INFO 9750 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:35:24,002 INFO 9750 [egg-watcher:application] watcher start success
+2020-12-28 15:35:24,008 INFO 9750 [egg:core] dump config after ready, 4ms
+2020-12-28 15:35:42,292 INFO 9769 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:35:42,315 INFO 9769 [egg-multipart] stream mode enable
+2020-12-28 15:35:42,525 INFO 9769 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:35:42,594 INFO 9769 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:35:42,596 INFO 9769 [egg-security] use methodnoallow middleware
+2020-12-28 15:35:42,596 INFO 9769 [egg-security] use noopen middleware
+2020-12-28 15:35:42,597 INFO 9769 [egg-security] use nosniff middleware
+2020-12-28 15:35:42,597 INFO 9769 [egg-security] use xssProtection middleware
+2020-12-28 15:35:42,597 INFO 9769 [egg-security] use xframe middleware
+2020-12-28 15:35:42,598 INFO 9769 [egg-security] use dta middleware
+2020-12-28 15:35:42,598 INFO 9769 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:35:42,608 INFO 9769 [egg:core] dump config after load, 4ms
+2020-12-28 15:35:42,611 INFO 9769 [egg-mongoose] starting...
+2020-12-28 15:35:42,628 INFO 9769 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:35:42,635 INFO 9769 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:35:42,637 INFO 9769 [egg-watcher:application] watcher start success
+2020-12-28 15:35:42,646 INFO 9769 [egg:core] dump config after ready, 4ms
+2020-12-28 15:35:54,403 INFO 9772 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:35:54,427 INFO 9772 [egg-multipart] stream mode enable
+2020-12-28 15:35:54,640 INFO 9772 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:35:54,707 INFO 9772 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:35:54,709 INFO 9772 [egg-security] use methodnoallow middleware
+2020-12-28 15:35:54,709 INFO 9772 [egg-security] use noopen middleware
+2020-12-28 15:35:54,709 INFO 9772 [egg-security] use nosniff middleware
+2020-12-28 15:35:54,710 INFO 9772 [egg-security] use xssProtection middleware
+2020-12-28 15:35:54,710 INFO 9772 [egg-security] use xframe middleware
+2020-12-28 15:35:54,710 INFO 9772 [egg-security] use dta middleware
+2020-12-28 15:35:54,711 INFO 9772 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:35:54,720 INFO 9772 [egg:core] dump config after load, 3ms
+2020-12-28 15:35:54,723 INFO 9772 [egg-mongoose] starting...
+2020-12-28 15:35:54,743 INFO 9772 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:35:54,750 INFO 9772 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:35:54,755 INFO 9772 [egg-watcher:application] watcher start success
+2020-12-28 15:35:54,764 INFO 9772 [egg:core] dump config after ready, 5ms
+2020-12-28 15:35:58,997 INFO 9775 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:35:59,020 INFO 9775 [egg-multipart] stream mode enable
+2020-12-28 15:35:59,242 INFO 9775 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:35:59,315 INFO 9775 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:35:59,316 INFO 9775 [egg-security] use methodnoallow middleware
+2020-12-28 15:35:59,317 INFO 9775 [egg-security] use noopen middleware
+2020-12-28 15:35:59,317 INFO 9775 [egg-security] use nosniff middleware
+2020-12-28 15:35:59,317 INFO 9775 [egg-security] use xssProtection middleware
+2020-12-28 15:35:59,318 INFO 9775 [egg-security] use xframe middleware
+2020-12-28 15:35:59,318 INFO 9775 [egg-security] use dta middleware
+2020-12-28 15:35:59,318 INFO 9775 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:35:59,329 INFO 9775 [egg:core] dump config after load, 4ms
+2020-12-28 15:35:59,332 INFO 9775 [egg-mongoose] starting...
+2020-12-28 15:35:59,353 INFO 9775 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:35:59,360 INFO 9775 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:35:59,363 INFO 9775 [egg-watcher:application] watcher start success
+2020-12-28 15:35:59,372 INFO 9775 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:04,553 INFO 9777 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:04,578 INFO 9777 [egg-multipart] stream mode enable
+2020-12-28 15:36:04,794 INFO 9777 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:04,860 INFO 9777 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:04,861 INFO 9777 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:04,862 INFO 9777 [egg-security] use noopen middleware
+2020-12-28 15:36:04,862 INFO 9777 [egg-security] use nosniff middleware
+2020-12-28 15:36:04,862 INFO 9777 [egg-security] use xssProtection middleware
+2020-12-28 15:36:04,863 INFO 9777 [egg-security] use xframe middleware
+2020-12-28 15:36:04,863 INFO 9777 [egg-security] use dta middleware
+2020-12-28 15:36:04,863 INFO 9777 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:04,873 INFO 9777 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:04,876 INFO 9777 [egg-mongoose] starting...
+2020-12-28 15:36:04,893 INFO 9777 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:04,899 INFO 9777 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:04,901 INFO 9777 [egg-watcher:application] watcher start success
+2020-12-28 15:36:04,910 INFO 9777 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:09,719 INFO 9778 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:09,742 INFO 9778 [egg-multipart] stream mode enable
+2020-12-28 15:36:09,959 INFO 9778 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:10,029 INFO 9778 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:10,031 INFO 9778 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:10,032 INFO 9778 [egg-security] use noopen middleware
+2020-12-28 15:36:10,032 INFO 9778 [egg-security] use nosniff middleware
+2020-12-28 15:36:10,032 INFO 9778 [egg-security] use xssProtection middleware
+2020-12-28 15:36:10,033 INFO 9778 [egg-security] use xframe middleware
+2020-12-28 15:36:10,033 INFO 9778 [egg-security] use dta middleware
+2020-12-28 15:36:10,033 INFO 9778 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:10,044 INFO 9778 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:10,047 INFO 9778 [egg-mongoose] starting...
+2020-12-28 15:36:10,068 INFO 9778 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:10,074 INFO 9778 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:10,076 INFO 9778 [egg-watcher:application] watcher start success
+2020-12-28 15:36:10,085 INFO 9778 [egg:core] dump config after ready, 4ms
+2020-12-28 15:36:13,682 INFO 9779 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:13,705 INFO 9779 [egg-multipart] stream mode enable
+2020-12-28 15:36:13,916 INFO 9779 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:13,988 INFO 9779 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:13,991 INFO 9779 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:13,991 INFO 9779 [egg-security] use noopen middleware
+2020-12-28 15:36:13,991 INFO 9779 [egg-security] use nosniff middleware
+2020-12-28 15:36:13,992 INFO 9779 [egg-security] use xssProtection middleware
+2020-12-28 15:36:13,992 INFO 9779 [egg-security] use xframe middleware
+2020-12-28 15:36:13,992 INFO 9779 [egg-security] use dta middleware
+2020-12-28 15:36:13,992 INFO 9779 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:14,004 INFO 9779 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:14,007 INFO 9779 [egg-mongoose] starting...
+2020-12-28 15:36:14,028 INFO 9779 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:14,035 INFO 9779 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:14,037 INFO 9779 [egg-watcher:application] watcher start success
+2020-12-28 15:36:14,046 INFO 9779 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:17,647 INFO 9780 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:17,671 INFO 9780 [egg-multipart] stream mode enable
+2020-12-28 15:36:17,882 INFO 9780 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:17,948 INFO 9780 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:17,949 INFO 9780 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:17,950 INFO 9780 [egg-security] use noopen middleware
+2020-12-28 15:36:17,950 INFO 9780 [egg-security] use nosniff middleware
+2020-12-28 15:36:17,950 INFO 9780 [egg-security] use xssProtection middleware
+2020-12-28 15:36:17,951 INFO 9780 [egg-security] use xframe middleware
+2020-12-28 15:36:17,951 INFO 9780 [egg-security] use dta middleware
+2020-12-28 15:36:17,951 INFO 9780 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:17,962 INFO 9780 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:17,965 INFO 9780 [egg-mongoose] starting...
+2020-12-28 15:36:17,986 INFO 9780 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:17,993 INFO 9780 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:17,995 INFO 9780 [egg-watcher:application] watcher start success
+2020-12-28 15:36:18,004 INFO 9780 [egg:core] dump config after ready, 4ms
+2020-12-28 15:36:21,859 INFO 9782 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:21,882 INFO 9782 [egg-multipart] stream mode enable
+2020-12-28 15:36:22,098 INFO 9782 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:22,170 INFO 9782 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:22,172 INFO 9782 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:22,173 INFO 9782 [egg-security] use noopen middleware
+2020-12-28 15:36:22,173 INFO 9782 [egg-security] use nosniff middleware
+2020-12-28 15:36:22,174 INFO 9782 [egg-security] use xssProtection middleware
+2020-12-28 15:36:22,174 INFO 9782 [egg-security] use xframe middleware
+2020-12-28 15:36:22,174 INFO 9782 [egg-security] use dta middleware
+2020-12-28 15:36:22,174 INFO 9782 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:22,185 INFO 9782 [egg:core] dump config after load, 3ms
+2020-12-28 15:36:22,189 INFO 9782 [egg-mongoose] starting...
+2020-12-28 15:36:22,208 INFO 9782 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:22,214 INFO 9782 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:22,216 INFO 9782 [egg-watcher:application] watcher start success
+2020-12-28 15:36:22,225 INFO 9782 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:25,635 INFO 9783 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:25,657 INFO 9783 [egg-multipart] stream mode enable
+2020-12-28 15:36:25,902 INFO 9783 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:25,974 INFO 9783 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:25,976 INFO 9783 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:25,977 INFO 9783 [egg-security] use noopen middleware
+2020-12-28 15:36:25,977 INFO 9783 [egg-security] use nosniff middleware
+2020-12-28 15:36:25,977 INFO 9783 [egg-security] use xssProtection middleware
+2020-12-28 15:36:25,978 INFO 9783 [egg-security] use xframe middleware
+2020-12-28 15:36:25,978 INFO 9783 [egg-security] use dta middleware
+2020-12-28 15:36:25,978 INFO 9783 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:25,989 INFO 9783 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:25,992 INFO 9783 [egg-mongoose] starting...
+2020-12-28 15:36:26,013 INFO 9783 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:26,019 INFO 9783 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:26,021 INFO 9783 [egg-watcher:application] watcher start success
+2020-12-28 15:36:26,030 INFO 9783 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:29,198 INFO 9784 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:29,221 INFO 9784 [egg-multipart] stream mode enable
+2020-12-28 15:36:29,441 INFO 9784 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:29,514 INFO 9784 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:29,516 INFO 9784 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:29,517 INFO 9784 [egg-security] use noopen middleware
+2020-12-28 15:36:29,517 INFO 9784 [egg-security] use nosniff middleware
+2020-12-28 15:36:29,517 INFO 9784 [egg-security] use xssProtection middleware
+2020-12-28 15:36:29,518 INFO 9784 [egg-security] use xframe middleware
+2020-12-28 15:36:29,518 INFO 9784 [egg-security] use dta middleware
+2020-12-28 15:36:29,518 INFO 9784 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:29,529 INFO 9784 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:29,532 INFO 9784 [egg-mongoose] starting...
+2020-12-28 15:36:29,553 INFO 9784 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:29,560 INFO 9784 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:29,562 INFO 9784 [egg-watcher:application] watcher start success
+2020-12-28 15:36:29,571 INFO 9784 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:44,549 INFO 9796 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:44,573 INFO 9796 [egg-multipart] stream mode enable
+2020-12-28 15:36:44,792 INFO 9796 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:44,864 INFO 9796 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:44,866 INFO 9796 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:44,866 INFO 9796 [egg-security] use noopen middleware
+2020-12-28 15:36:44,867 INFO 9796 [egg-security] use nosniff middleware
+2020-12-28 15:36:44,867 INFO 9796 [egg-security] use xssProtection middleware
+2020-12-28 15:36:44,867 INFO 9796 [egg-security] use xframe middleware
+2020-12-28 15:36:44,867 INFO 9796 [egg-security] use dta middleware
+2020-12-28 15:36:44,867 INFO 9796 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:44,878 INFO 9796 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:44,881 INFO 9796 [egg-mongoose] starting...
+2020-12-28 15:36:44,901 INFO 9796 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:44,907 INFO 9796 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:44,909 INFO 9796 [egg-watcher:application] watcher start success
+2020-12-28 15:36:44,919 INFO 9796 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:51,126 INFO 9797 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:51,151 INFO 9797 [egg-multipart] stream mode enable
+2020-12-28 15:36:51,369 INFO 9797 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:51,442 INFO 9797 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:51,444 INFO 9797 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:51,444 INFO 9797 [egg-security] use noopen middleware
+2020-12-28 15:36:51,445 INFO 9797 [egg-security] use nosniff middleware
+2020-12-28 15:36:51,445 INFO 9797 [egg-security] use xssProtection middleware
+2020-12-28 15:36:51,445 INFO 9797 [egg-security] use xframe middleware
+2020-12-28 15:36:51,446 INFO 9797 [egg-security] use dta middleware
+2020-12-28 15:36:51,446 INFO 9797 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:51,456 INFO 9797 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:51,459 INFO 9797 [egg-mongoose] starting...
+2020-12-28 15:36:51,479 INFO 9797 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:51,486 INFO 9797 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:51,488 INFO 9797 [egg-watcher:application] watcher start success
+2020-12-28 15:36:51,497 INFO 9797 [egg:core] dump config after ready, 5ms
+2020-12-28 15:36:59,280 INFO 9798 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:36:59,303 INFO 9798 [egg-multipart] stream mode enable
+2020-12-28 15:36:59,519 INFO 9798 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:36:59,593 INFO 9798 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:36:59,595 INFO 9798 [egg-security] use methodnoallow middleware
+2020-12-28 15:36:59,595 INFO 9798 [egg-security] use noopen middleware
+2020-12-28 15:36:59,596 INFO 9798 [egg-security] use nosniff middleware
+2020-12-28 15:36:59,596 INFO 9798 [egg-security] use xssProtection middleware
+2020-12-28 15:36:59,596 INFO 9798 [egg-security] use xframe middleware
+2020-12-28 15:36:59,597 INFO 9798 [egg-security] use dta middleware
+2020-12-28 15:36:59,597 INFO 9798 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:36:59,608 INFO 9798 [egg:core] dump config after load, 4ms
+2020-12-28 15:36:59,611 INFO 9798 [egg-mongoose] starting...
+2020-12-28 15:36:59,632 INFO 9798 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:36:59,639 INFO 9798 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:36:59,641 INFO 9798 [egg-watcher:application] watcher start success
+2020-12-28 15:36:59,650 INFO 9798 [egg:core] dump config after ready, 5ms
+2020-12-28 15:37:04,532 INFO 9799 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:37:04,557 INFO 9799 [egg-multipart] stream mode enable
+2020-12-28 15:37:04,796 INFO 9799 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:37:04,871 INFO 9799 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:37:04,873 INFO 9799 [egg-security] use methodnoallow middleware
+2020-12-28 15:37:04,874 INFO 9799 [egg-security] use noopen middleware
+2020-12-28 15:37:04,874 INFO 9799 [egg-security] use nosniff middleware
+2020-12-28 15:37:04,874 INFO 9799 [egg-security] use xssProtection middleware
+2020-12-28 15:37:04,875 INFO 9799 [egg-security] use xframe middleware
+2020-12-28 15:37:04,875 INFO 9799 [egg-security] use dta middleware
+2020-12-28 15:37:04,875 INFO 9799 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:37:04,886 INFO 9799 [egg:core] dump config after load, 4ms
+2020-12-28 15:37:04,889 INFO 9799 [egg-mongoose] starting...
+2020-12-28 15:37:04,909 INFO 9799 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:37:04,916 INFO 9799 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:37:04,918 INFO 9799 [egg-watcher:application] watcher start success
+2020-12-28 15:37:04,927 INFO 9799 [egg:core] dump config after ready, 5ms
+2020-12-28 15:37:07,726 INFO 9800 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:37:07,750 INFO 9800 [egg-multipart] stream mode enable
+2020-12-28 15:37:07,961 INFO 9800 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:37:08,027 INFO 9800 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:37:08,029 INFO 9800 [egg-security] use methodnoallow middleware
+2020-12-28 15:37:08,029 INFO 9800 [egg-security] use noopen middleware
+2020-12-28 15:37:08,030 INFO 9800 [egg-security] use nosniff middleware
+2020-12-28 15:37:08,030 INFO 9800 [egg-security] use xssProtection middleware
+2020-12-28 15:37:08,030 INFO 9800 [egg-security] use xframe middleware
+2020-12-28 15:37:08,031 INFO 9800 [egg-security] use dta middleware
+2020-12-28 15:37:08,031 INFO 9800 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:37:08,041 INFO 9800 [egg:core] dump config after load, 4ms
+2020-12-28 15:37:08,044 INFO 9800 [egg-mongoose] starting...
+2020-12-28 15:37:08,064 INFO 9800 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:37:08,070 INFO 9800 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:37:08,071 INFO 9800 [egg-watcher:application] watcher start success
+2020-12-28 15:37:08,080 INFO 9800 [egg:core] dump config after ready, 5ms
+2020-12-28 15:37:11,004 INFO 9801 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:37:11,027 INFO 9801 [egg-multipart] stream mode enable
+2020-12-28 15:37:11,232 INFO 9801 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:37:11,302 INFO 9801 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:37:11,304 INFO 9801 [egg-security] use methodnoallow middleware
+2020-12-28 15:37:11,304 INFO 9801 [egg-security] use noopen middleware
+2020-12-28 15:37:11,305 INFO 9801 [egg-security] use nosniff middleware
+2020-12-28 15:37:11,305 INFO 9801 [egg-security] use xssProtection middleware
+2020-12-28 15:37:11,305 INFO 9801 [egg-security] use xframe middleware
+2020-12-28 15:37:11,306 INFO 9801 [egg-security] use dta middleware
+2020-12-28 15:37:11,306 INFO 9801 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:37:11,316 INFO 9801 [egg:core] dump config after load, 4ms
+2020-12-28 15:37:11,319 INFO 9801 [egg-mongoose] starting...
+2020-12-28 15:37:11,338 INFO 9801 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:37:11,344 INFO 9801 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:37:11,346 INFO 9801 [egg-watcher:application] watcher start success
+2020-12-28 15:37:11,354 INFO 9801 [egg:core] dump config after ready, 4ms
+2020-12-28 15:37:19,089 INFO 9802 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:37:19,113 INFO 9802 [egg-multipart] stream mode enable
+2020-12-28 15:37:19,331 INFO 9802 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:37:19,399 INFO 9802 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:37:19,401 INFO 9802 [egg-security] use methodnoallow middleware
+2020-12-28 15:37:19,401 INFO 9802 [egg-security] use noopen middleware
+2020-12-28 15:37:19,402 INFO 9802 [egg-security] use nosniff middleware
+2020-12-28 15:37:19,402 INFO 9802 [egg-security] use xssProtection middleware
+2020-12-28 15:37:19,402 INFO 9802 [egg-security] use xframe middleware
+2020-12-28 15:37:19,403 INFO 9802 [egg-security] use dta middleware
+2020-12-28 15:37:19,403 INFO 9802 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:37:19,413 INFO 9802 [egg:core] dump config after load, 4ms
+2020-12-28 15:37:19,415 INFO 9802 [egg-mongoose] starting...
+2020-12-28 15:37:19,435 INFO 9802 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:37:19,441 INFO 9802 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:37:19,443 INFO 9802 [egg-watcher:application] watcher start success
+2020-12-28 15:37:19,452 INFO 9802 [egg:core] dump config after ready, 4ms
+2020-12-28 15:38:02,711 INFO 9817 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:38:02,735 INFO 9817 [egg-multipart] stream mode enable
+2020-12-28 15:38:02,955 INFO 9817 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:38:03,062 INFO 9817 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:38:03,064 INFO 9817 [egg-security] use methodnoallow middleware
+2020-12-28 15:38:03,065 INFO 9817 [egg-security] use noopen middleware
+2020-12-28 15:38:03,066 INFO 9817 [egg-security] use nosniff middleware
+2020-12-28 15:38:03,067 INFO 9817 [egg-security] use xssProtection middleware
+2020-12-28 15:38:03,067 INFO 9817 [egg-security] use xframe middleware
+2020-12-28 15:38:03,068 INFO 9817 [egg-security] use dta middleware
+2020-12-28 15:38:03,068 INFO 9817 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:38:03,081 INFO 9817 [egg:core] dump config after load, 4ms
+2020-12-28 15:38:03,084 INFO 9817 [egg-mongoose] starting...
+2020-12-28 15:38:03,106 INFO 9817 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:38:03,113 INFO 9817 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:38:03,115 INFO 9817 [egg-watcher:application] watcher start success
+2020-12-28 15:38:03,124 INFO 9817 [egg:core] dump config after ready, 5ms
+2020-12-28 15:38:27,214 INFO 9819 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:38:27,234 INFO 9819 [egg-multipart] stream mode enable
+2020-12-28 15:38:27,429 INFO 9819 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:38:27,549 INFO 9819 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:38:27,551 INFO 9819 [egg-security] use methodnoallow middleware
+2020-12-28 15:38:27,551 INFO 9819 [egg-security] use noopen middleware
+2020-12-28 15:38:27,552 INFO 9819 [egg-security] use nosniff middleware
+2020-12-28 15:38:27,553 INFO 9819 [egg-security] use xssProtection middleware
+2020-12-28 15:38:27,553 INFO 9819 [egg-security] use xframe middleware
+2020-12-28 15:38:27,554 INFO 9819 [egg-security] use dta middleware
+2020-12-28 15:38:27,554 INFO 9819 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:38:27,566 INFO 9819 [egg:core] dump config after load, 4ms
+2020-12-28 15:38:27,569 INFO 9819 [egg-mongoose] starting...
+2020-12-28 15:38:27,590 INFO 9819 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:38:27,597 INFO 9819 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:38:27,599 INFO 9819 [egg-watcher:application] watcher start success
+2020-12-28 15:38:27,609 INFO 9819 [egg:core] dump config after ready, 5ms
+2020-12-28 15:40:16,246 INFO 9846 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:40:16,272 INFO 9846 [egg-multipart] stream mode enable
+2020-12-28 15:40:16,592 INFO 9846 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:40:16,710 INFO 9846 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:40:16,712 INFO 9846 [egg-security] use methodnoallow middleware
+2020-12-28 15:40:16,713 INFO 9846 [egg-security] use noopen middleware
+2020-12-28 15:40:16,714 INFO 9846 [egg-security] use nosniff middleware
+2020-12-28 15:40:16,714 INFO 9846 [egg-security] use xssProtection middleware
+2020-12-28 15:40:16,715 INFO 9846 [egg-security] use xframe middleware
+2020-12-28 15:40:16,716 INFO 9846 [egg-security] use dta middleware
+2020-12-28 15:40:16,716 INFO 9846 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:40:16,727 INFO 9846 [egg:core] dump config after load, 4ms
+2020-12-28 15:40:16,730 INFO 9846 [egg-mongoose] starting...
+2020-12-28 15:40:16,749 INFO 9846 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:40:16,755 INFO 9846 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:40:16,757 INFO 9846 [egg-watcher:application] watcher start success
+2020-12-28 15:40:16,765 INFO 9846 [egg:core] dump config after ready, 4ms
+2020-12-28 15:40:29,160 INFO 9855 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:40:29,186 INFO 9855 [egg-multipart] stream mode enable
+2020-12-28 15:40:29,460 INFO 9855 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:40:29,576 INFO 9855 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:40:29,578 INFO 9855 [egg-security] use methodnoallow middleware
+2020-12-28 15:40:29,579 INFO 9855 [egg-security] use noopen middleware
+2020-12-28 15:40:29,580 INFO 9855 [egg-security] use nosniff middleware
+2020-12-28 15:40:29,581 INFO 9855 [egg-security] use xssProtection middleware
+2020-12-28 15:40:29,582 INFO 9855 [egg-security] use xframe middleware
+2020-12-28 15:40:29,582 INFO 9855 [egg-security] use dta middleware
+2020-12-28 15:40:29,582 INFO 9855 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:40:29,594 INFO 9855 [egg:core] dump config after load, 4ms
+2020-12-28 15:40:29,597 INFO 9855 [egg-mongoose] starting...
+2020-12-28 15:40:29,620 INFO 9855 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:40:29,627 INFO 9855 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:40:29,629 INFO 9855 [egg-watcher:application] watcher start success
+2020-12-28 15:40:29,638 INFO 9855 [egg:core] dump config after ready, 5ms
+2020-12-28 15:40:44,286 INFO 9864 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:40:44,309 INFO 9864 [egg-multipart] stream mode enable
+2020-12-28 15:40:44,518 INFO 9864 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:40:44,587 INFO 9864 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:40:44,588 INFO 9864 [egg-security] use methodnoallow middleware
+2020-12-28 15:40:44,589 INFO 9864 [egg-security] use noopen middleware
+2020-12-28 15:40:44,589 INFO 9864 [egg-security] use nosniff middleware
+2020-12-28 15:40:44,590 INFO 9864 [egg-security] use xssProtection middleware
+2020-12-28 15:40:44,590 INFO 9864 [egg-security] use xframe middleware
+2020-12-28 15:40:44,590 INFO 9864 [egg-security] use dta middleware
+2020-12-28 15:40:44,590 INFO 9864 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:40:44,601 INFO 9864 [egg:core] dump config after load, 4ms
+2020-12-28 15:40:44,604 INFO 9864 [egg-mongoose] starting...
+2020-12-28 15:40:44,624 INFO 9864 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:40:44,631 INFO 9864 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:40:44,633 INFO 9864 [egg-watcher:application] watcher start success
+2020-12-28 15:40:44,642 INFO 9864 [egg:core] dump config after ready, 4ms
+2020-12-28 15:44:02,239 INFO 9934 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:44:02,272 INFO 9934 [egg-multipart] stream mode enable
+2020-12-28 15:44:02,594 INFO 9934 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:44:02,724 INFO 9934 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:44:02,726 INFO 9934 [egg-security] use methodnoallow middleware
+2020-12-28 15:44:02,727 INFO 9934 [egg-security] use noopen middleware
+2020-12-28 15:44:02,728 INFO 9934 [egg-security] use nosniff middleware
+2020-12-28 15:44:02,729 INFO 9934 [egg-security] use xssProtection middleware
+2020-12-28 15:44:02,730 INFO 9934 [egg-security] use xframe middleware
+2020-12-28 15:44:02,731 INFO 9934 [egg-security] use dta middleware
+2020-12-28 15:44:02,731 INFO 9934 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:44:02,743 INFO 9934 [egg:core] dump config after load, 4ms
+2020-12-28 15:44:02,746 INFO 9934 [egg-mongoose] starting...
+2020-12-28 15:44:02,765 INFO 9934 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:44:02,771 INFO 9934 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:44:02,773 INFO 9934 [egg-watcher:application] watcher start success
+2020-12-28 15:44:02,783 INFO 9934 [egg:core] dump config after ready, 5ms
+2020-12-28 15:45:23,846 INFO 9965 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:45:23,875 INFO 9965 [egg-multipart] stream mode enable
+2020-12-28 15:45:24,221 INFO 9965 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:45:24,366 INFO 9965 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:45:24,368 INFO 9965 [egg-security] use methodnoallow middleware
+2020-12-28 15:45:24,370 INFO 9965 [egg-security] use noopen middleware
+2020-12-28 15:45:24,371 INFO 9965 [egg-security] use nosniff middleware
+2020-12-28 15:45:24,371 INFO 9965 [egg-security] use xssProtection middleware
+2020-12-28 15:45:24,373 INFO 9965 [egg-security] use xframe middleware
+2020-12-28 15:45:24,374 INFO 9965 [egg-security] use dta middleware
+2020-12-28 15:45:24,374 INFO 9965 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:45:24,388 INFO 9965 [egg:core] dump config after load, 4ms
+2020-12-28 15:45:24,391 INFO 9965 [egg-mongoose] starting...
+2020-12-28 15:45:24,413 INFO 9965 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:45:24,418 INFO 9965 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:45:24,420 INFO 9965 [egg-watcher:application] watcher start success
+2020-12-28 15:45:24,428 INFO 9965 [egg:core] dump config after ready, 4ms
+2020-12-28 15:45:44,823 INFO 9982 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:45:44,841 INFO 9982 [egg-multipart] stream mode enable
+2020-12-28 15:45:45,007 INFO 9982 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:45:45,067 INFO 9982 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:45:45,068 INFO 9982 [egg-security] use methodnoallow middleware
+2020-12-28 15:45:45,069 INFO 9982 [egg-security] use noopen middleware
+2020-12-28 15:45:45,069 INFO 9982 [egg-security] use nosniff middleware
+2020-12-28 15:45:45,069 INFO 9982 [egg-security] use xssProtection middleware
+2020-12-28 15:45:45,069 INFO 9982 [egg-security] use xframe middleware
+2020-12-28 15:45:45,070 INFO 9982 [egg-security] use dta middleware
+2020-12-28 15:45:45,070 INFO 9982 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:45:45,078 INFO 9982 [egg:core] dump config after load, 3ms
+2020-12-28 15:45:45,080 INFO 9982 [egg-mongoose] starting...
+2020-12-28 15:45:45,096 INFO 9982 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:45:45,101 INFO 9982 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:45:45,103 INFO 9982 [egg-watcher:application] watcher start success
+2020-12-28 15:45:45,110 INFO 9982 [egg:core] dump config after ready, 3ms
+2020-12-28 15:45:54,579 INFO 9990 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:45:54,599 INFO 9990 [egg-multipart] stream mode enable
+2020-12-28 15:45:54,787 INFO 9990 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:45:54,881 INFO 9990 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:45:54,883 INFO 9990 [egg-security] use methodnoallow middleware
+2020-12-28 15:45:54,884 INFO 9990 [egg-security] use noopen middleware
+2020-12-28 15:45:54,885 INFO 9990 [egg-security] use nosniff middleware
+2020-12-28 15:45:54,885 INFO 9990 [egg-security] use xssProtection middleware
+2020-12-28 15:45:54,886 INFO 9990 [egg-security] use xframe middleware
+2020-12-28 15:45:54,887 INFO 9990 [egg-security] use dta middleware
+2020-12-28 15:45:54,887 INFO 9990 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:45:54,898 INFO 9990 [egg:core] dump config after load, 4ms
+2020-12-28 15:45:54,900 INFO 9990 [egg-mongoose] starting...
+2020-12-28 15:45:54,919 INFO 9990 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:45:54,925 INFO 9990 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:45:54,927 INFO 9990 [egg-watcher:application] watcher start success
+2020-12-28 15:45:54,936 INFO 9990 [egg:core] dump config after ready, 5ms
+2020-12-28 15:49:00,451 INFO 10029 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:49:00,475 INFO 10029 [egg-multipart] stream mode enable
+2020-12-28 15:49:00,814 INFO 10029 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:49:00,930 INFO 10029 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:49:00,932 INFO 10029 [egg-security] use methodnoallow middleware
+2020-12-28 15:49:00,932 INFO 10029 [egg-security] use noopen middleware
+2020-12-28 15:49:00,933 INFO 10029 [egg-security] use nosniff middleware
+2020-12-28 15:49:00,934 INFO 10029 [egg-security] use xssProtection middleware
+2020-12-28 15:49:00,934 INFO 10029 [egg-security] use xframe middleware
+2020-12-28 15:49:00,935 INFO 10029 [egg-security] use dta middleware
+2020-12-28 15:49:00,935 INFO 10029 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:49:00,946 INFO 10029 [egg:core] dump config after load, 3ms
+2020-12-28 15:49:00,949 INFO 10029 [egg-mongoose] starting...
+2020-12-28 15:49:00,970 INFO 10029 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:49:00,976 INFO 10029 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:49:00,978 INFO 10029 [egg-watcher:application] watcher start success
+2020-12-28 15:49:00,987 INFO 10029 [egg:core] dump config after ready, 4ms
+2020-12-28 15:49:05,468 INFO 10032 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:49:05,489 INFO 10032 [egg-multipart] stream mode enable
+2020-12-28 15:49:05,693 INFO 10032 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:49:05,761 INFO 10032 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:49:05,763 INFO 10032 [egg-security] use methodnoallow middleware
+2020-12-28 15:49:05,763 INFO 10032 [egg-security] use noopen middleware
+2020-12-28 15:49:05,764 INFO 10032 [egg-security] use nosniff middleware
+2020-12-28 15:49:05,764 INFO 10032 [egg-security] use xssProtection middleware
+2020-12-28 15:49:05,764 INFO 10032 [egg-security] use xframe middleware
+2020-12-28 15:49:05,765 INFO 10032 [egg-security] use dta middleware
+2020-12-28 15:49:05,765 INFO 10032 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:49:05,776 INFO 10032 [egg:core] dump config after load, 3ms
+2020-12-28 15:49:05,778 INFO 10032 [egg-mongoose] starting...
+2020-12-28 15:49:05,798 INFO 10032 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:49:05,804 INFO 10032 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:49:05,806 INFO 10032 [egg-watcher:application] watcher start success
+2020-12-28 15:49:05,815 INFO 10032 [egg:core] dump config after ready, 5ms
+2020-12-28 15:50:09,499 INFO 10043 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:50:09,524 INFO 10043 [egg-multipart] stream mode enable
+2020-12-28 15:50:09,800 INFO 10043 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:50:09,928 INFO 10043 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:50:09,930 INFO 10043 [egg-security] use methodnoallow middleware
+2020-12-28 15:50:09,931 INFO 10043 [egg-security] use noopen middleware
+2020-12-28 15:50:09,931 INFO 10043 [egg-security] use nosniff middleware
+2020-12-28 15:50:09,932 INFO 10043 [egg-security] use xssProtection middleware
+2020-12-28 15:50:09,933 INFO 10043 [egg-security] use xframe middleware
+2020-12-28 15:50:09,934 INFO 10043 [egg-security] use dta middleware
+2020-12-28 15:50:09,934 INFO 10043 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:50:09,945 INFO 10043 [egg:core] dump config after load, 4ms
+2020-12-28 15:50:09,948 INFO 10043 [egg-mongoose] starting...
+2020-12-28 15:50:09,967 INFO 10043 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:50:09,972 INFO 10043 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:50:09,974 INFO 10043 [egg-watcher:application] watcher start success
+2020-12-28 15:50:09,982 INFO 10043 [egg:core] dump config after ready, 4ms
+2020-12-28 15:50:21,148 INFO 10049 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:50:21,175 INFO 10049 [egg-multipart] stream mode enable
+2020-12-28 15:50:21,459 INFO 10049 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:50:21,571 INFO 10049 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:50:21,573 INFO 10049 [egg-security] use methodnoallow middleware
+2020-12-28 15:50:21,574 INFO 10049 [egg-security] use noopen middleware
+2020-12-28 15:50:21,575 INFO 10049 [egg-security] use nosniff middleware
+2020-12-28 15:50:21,575 INFO 10049 [egg-security] use xssProtection middleware
+2020-12-28 15:50:21,576 INFO 10049 [egg-security] use xframe middleware
+2020-12-28 15:50:21,576 INFO 10049 [egg-security] use dta middleware
+2020-12-28 15:50:21,576 INFO 10049 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:50:21,587 INFO 10049 [egg:core] dump config after load, 3ms
+2020-12-28 15:50:21,590 INFO 10049 [egg-mongoose] starting...
+2020-12-28 15:50:21,610 INFO 10049 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:50:21,617 INFO 10049 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:50:21,619 INFO 10049 [egg-watcher:application] watcher start success
+2020-12-28 15:50:21,627 INFO 10049 [egg:core] dump config after ready, 4ms
+2020-12-28 15:50:36,370 INFO 10050 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:50:36,388 INFO 10050 [egg-multipart] stream mode enable
+2020-12-28 15:50:36,553 INFO 10050 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:50:36,608 INFO 10050 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:50:36,609 INFO 10050 [egg-security] use methodnoallow middleware
+2020-12-28 15:50:36,609 INFO 10050 [egg-security] use noopen middleware
+2020-12-28 15:50:36,609 INFO 10050 [egg-security] use nosniff middleware
+2020-12-28 15:50:36,610 INFO 10050 [egg-security] use xssProtection middleware
+2020-12-28 15:50:36,610 INFO 10050 [egg-security] use xframe middleware
+2020-12-28 15:50:36,610 INFO 10050 [egg-security] use dta middleware
+2020-12-28 15:50:36,610 INFO 10050 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:50:36,618 INFO 10050 [egg:core] dump config after load, 3ms
+2020-12-28 15:50:36,621 INFO 10050 [egg-mongoose] starting...
+2020-12-28 15:50:36,638 INFO 10050 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:50:36,644 INFO 10050 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:50:36,645 INFO 10050 [egg-watcher:application] watcher start success
+2020-12-28 15:50:36,652 INFO 10050 [egg:core] dump config after ready, 4ms
+2020-12-28 15:50:46,053 INFO 10058 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:50:46,073 INFO 10058 [egg-multipart] stream mode enable
+2020-12-28 15:50:46,247 INFO 10058 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:50:46,323 INFO 10058 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:50:46,325 INFO 10058 [egg-security] use methodnoallow middleware
+2020-12-28 15:50:46,326 INFO 10058 [egg-security] use noopen middleware
+2020-12-28 15:50:46,327 INFO 10058 [egg-security] use nosniff middleware
+2020-12-28 15:50:46,327 INFO 10058 [egg-security] use xssProtection middleware
+2020-12-28 15:50:46,328 INFO 10058 [egg-security] use xframe middleware
+2020-12-28 15:50:46,329 INFO 10058 [egg-security] use dta middleware
+2020-12-28 15:50:46,329 INFO 10058 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:50:46,341 INFO 10058 [egg:core] dump config after load, 4ms
+2020-12-28 15:50:46,344 INFO 10058 [egg-mongoose] starting...
+2020-12-28 15:50:46,363 INFO 10058 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:50:46,370 INFO 10058 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:50:46,372 INFO 10058 [egg-watcher:application] watcher start success
+2020-12-28 15:50:46,380 INFO 10058 [egg:core] dump config after ready, 4ms
+2020-12-28 15:50:50,324 INFO 10060 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:50:50,341 INFO 10060 [egg-multipart] stream mode enable
+2020-12-28 15:50:50,518 INFO 10060 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:50:50,583 INFO 10060 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:50:50,585 INFO 10060 [egg-security] use methodnoallow middleware
+2020-12-28 15:50:50,585 INFO 10060 [egg-security] use noopen middleware
+2020-12-28 15:50:50,586 INFO 10060 [egg-security] use nosniff middleware
+2020-12-28 15:50:50,586 INFO 10060 [egg-security] use xssProtection middleware
+2020-12-28 15:50:50,586 INFO 10060 [egg-security] use xframe middleware
+2020-12-28 15:50:50,587 INFO 10060 [egg-security] use dta middleware
+2020-12-28 15:50:50,587 INFO 10060 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:50:50,598 INFO 10060 [egg:core] dump config after load, 5ms
+2020-12-28 15:50:50,601 INFO 10060 [egg-mongoose] starting...
+2020-12-28 15:50:50,622 INFO 10060 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:50:50,629 INFO 10060 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:50:50,631 INFO 10060 [egg-watcher:application] watcher start success
+2020-12-28 15:50:50,640 INFO 10060 [egg:core] dump config after ready, 5ms
+2020-12-28 15:52:51,649 INFO 10097 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:52:51,676 INFO 10097 [egg-multipart] stream mode enable
+2020-12-28 15:52:51,978 INFO 10097 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:52:52,106 INFO 10097 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:52:52,109 INFO 10097 [egg-security] use methodnoallow middleware
+2020-12-28 15:52:52,109 INFO 10097 [egg-security] use noopen middleware
+2020-12-28 15:52:52,111 INFO 10097 [egg-security] use nosniff middleware
+2020-12-28 15:52:52,112 INFO 10097 [egg-security] use xssProtection middleware
+2020-12-28 15:52:52,113 INFO 10097 [egg-security] use xframe middleware
+2020-12-28 15:52:52,114 INFO 10097 [egg-security] use dta middleware
+2020-12-28 15:52:52,114 INFO 10097 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:52:52,127 INFO 10097 [egg:core] dump config after load, 3ms
+2020-12-28 15:52:52,129 INFO 10097 [egg-mongoose] starting...
+2020-12-28 15:52:52,149 INFO 10097 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:52:52,155 INFO 10097 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:52:52,157 INFO 10097 [egg-watcher:application] watcher start success
+2020-12-28 15:52:52,165 INFO 10097 [egg:core] dump config after ready, 4ms
+2020-12-28 15:53:07,685 INFO 10100 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:53:07,703 INFO 10100 [egg-multipart] stream mode enable
+2020-12-28 15:53:07,867 INFO 10100 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:53:07,922 INFO 10100 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:53:07,923 INFO 10100 [egg-security] use methodnoallow middleware
+2020-12-28 15:53:07,923 INFO 10100 [egg-security] use noopen middleware
+2020-12-28 15:53:07,924 INFO 10100 [egg-security] use nosniff middleware
+2020-12-28 15:53:07,924 INFO 10100 [egg-security] use xssProtection middleware
+2020-12-28 15:53:07,924 INFO 10100 [egg-security] use xframe middleware
+2020-12-28 15:53:07,924 INFO 10100 [egg-security] use dta middleware
+2020-12-28 15:53:07,924 INFO 10100 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:53:07,933 INFO 10100 [egg:core] dump config after load, 3ms
+2020-12-28 15:53:07,935 INFO 10100 [egg-mongoose] starting...
+2020-12-28 15:53:07,951 INFO 10100 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:53:07,956 INFO 10100 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:53:07,958 INFO 10100 [egg-watcher:application] watcher start success
+2020-12-28 15:53:07,965 INFO 10100 [egg:core] dump config after ready, 4ms
+2020-12-28 15:53:44,902 INFO 10116 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:53:44,920 INFO 10116 [egg-multipart] stream mode enable
+2020-12-28 15:53:45,094 INFO 10116 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:53:45,152 INFO 10116 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:53:45,154 INFO 10116 [egg-security] use methodnoallow middleware
+2020-12-28 15:53:45,154 INFO 10116 [egg-security] use noopen middleware
+2020-12-28 15:53:45,154 INFO 10116 [egg-security] use nosniff middleware
+2020-12-28 15:53:45,155 INFO 10116 [egg-security] use xssProtection middleware
+2020-12-28 15:53:45,155 INFO 10116 [egg-security] use xframe middleware
+2020-12-28 15:53:45,155 INFO 10116 [egg-security] use dta middleware
+2020-12-28 15:53:45,155 INFO 10116 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:53:45,164 INFO 10116 [egg:core] dump config after load, 3ms
+2020-12-28 15:53:45,166 INFO 10116 [egg-mongoose] starting...
+2020-12-28 15:53:45,183 INFO 10116 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:53:45,188 INFO 10116 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:53:45,189 INFO 10116 [egg-watcher:application] watcher start success
+2020-12-28 15:53:45,197 INFO 10116 [egg:core] dump config after ready, 4ms
+2020-12-28 15:54:04,929 INFO 10137 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:54:04,952 INFO 10137 [egg-multipart] stream mode enable
+2020-12-28 15:54:05,151 INFO 10137 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:54:05,227 INFO 10137 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:54:05,229 INFO 10137 [egg-security] use methodnoallow middleware
+2020-12-28 15:54:05,229 INFO 10137 [egg-security] use noopen middleware
+2020-12-28 15:54:05,229 INFO 10137 [egg-security] use nosniff middleware
+2020-12-28 15:54:05,230 INFO 10137 [egg-security] use xssProtection middleware
+2020-12-28 15:54:05,230 INFO 10137 [egg-security] use xframe middleware
+2020-12-28 15:54:05,230 INFO 10137 [egg-security] use dta middleware
+2020-12-28 15:54:05,230 INFO 10137 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:54:05,240 INFO 10137 [egg:core] dump config after load, 4ms
+2020-12-28 15:54:05,243 INFO 10137 [egg-mongoose] starting...
+2020-12-28 15:54:05,261 INFO 10137 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:54:05,266 INFO 10137 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:54:05,268 INFO 10137 [egg-watcher:application] watcher start success
+2020-12-28 15:54:05,276 INFO 10137 [egg:core] dump config after ready, 4ms
+2020-12-28 15:54:31,415 INFO 10143 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:54:31,439 INFO 10143 [egg-multipart] stream mode enable
+2020-12-28 15:54:31,642 INFO 10143 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:54:31,723 INFO 10143 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:54:31,725 INFO 10143 [egg-security] use methodnoallow middleware
+2020-12-28 15:54:31,726 INFO 10143 [egg-security] use noopen middleware
+2020-12-28 15:54:31,726 INFO 10143 [egg-security] use nosniff middleware
+2020-12-28 15:54:31,727 INFO 10143 [egg-security] use xssProtection middleware
+2020-12-28 15:54:31,727 INFO 10143 [egg-security] use xframe middleware
+2020-12-28 15:54:31,727 INFO 10143 [egg-security] use dta middleware
+2020-12-28 15:54:31,727 INFO 10143 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:54:31,740 INFO 10143 [egg:core] dump config after load, 5ms
+2020-12-28 15:54:31,744 INFO 10143 [egg-mongoose] starting...
+2020-12-28 15:54:31,767 INFO 10143 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:54:31,774 INFO 10143 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:54:31,776 INFO 10143 [egg-watcher:application] watcher start success
+2020-12-28 15:54:31,785 INFO 10143 [egg:core] dump config after ready, 5ms
+2020-12-28 15:56:24,410 INFO 10168 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:56:24,431 INFO 10168 [egg-multipart] stream mode enable
+2020-12-28 15:56:24,620 INFO 10168 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:56:24,684 INFO 10168 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:56:24,686 INFO 10168 [egg-security] use methodnoallow middleware
+2020-12-28 15:56:24,686 INFO 10168 [egg-security] use noopen middleware
+2020-12-28 15:56:24,686 INFO 10168 [egg-security] use nosniff middleware
+2020-12-28 15:56:24,687 INFO 10168 [egg-security] use xssProtection middleware
+2020-12-28 15:56:24,687 INFO 10168 [egg-security] use xframe middleware
+2020-12-28 15:56:24,687 INFO 10168 [egg-security] use dta middleware
+2020-12-28 15:56:24,687 INFO 10168 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:56:24,697 INFO 10168 [egg:core] dump config after load, 4ms
+2020-12-28 15:56:24,700 INFO 10168 [egg-mongoose] starting...
+2020-12-28 15:56:24,719 INFO 10168 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:56:24,725 INFO 10168 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:56:24,727 INFO 10168 [egg-watcher:application] watcher start success
+2020-12-28 15:56:24,735 INFO 10168 [egg:core] dump config after ready, 4ms
+2020-12-28 15:56:45,713 INFO 10173 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:56:45,734 INFO 10173 [egg-multipart] stream mode enable
+2020-12-28 15:56:45,955 INFO 10173 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:56:46,024 INFO 10173 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:56:46,025 INFO 10173 [egg-security] use methodnoallow middleware
+2020-12-28 15:56:46,026 INFO 10173 [egg-security] use noopen middleware
+2020-12-28 15:56:46,026 INFO 10173 [egg-security] use nosniff middleware
+2020-12-28 15:56:46,026 INFO 10173 [egg-security] use xssProtection middleware
+2020-12-28 15:56:46,027 INFO 10173 [egg-security] use xframe middleware
+2020-12-28 15:56:46,027 INFO 10173 [egg-security] use dta middleware
+2020-12-28 15:56:46,027 INFO 10173 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:56:46,038 INFO 10173 [egg:core] dump config after load, 4ms
+2020-12-28 15:56:46,041 INFO 10173 [egg-mongoose] starting...
+2020-12-28 15:56:46,061 INFO 10173 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:56:46,067 INFO 10173 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:56:46,068 INFO 10173 [egg-watcher:application] watcher start success
+2020-12-28 15:56:46,077 INFO 10173 [egg:core] dump config after ready, 4ms
+2020-12-28 15:57:51,556 INFO 10195 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:57:51,576 INFO 10195 [egg-multipart] stream mode enable
+2020-12-28 15:57:51,742 INFO 10195 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:57:51,796 INFO 10195 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:57:51,797 INFO 10195 [egg-security] use methodnoallow middleware
+2020-12-28 15:57:51,798 INFO 10195 [egg-security] use noopen middleware
+2020-12-28 15:57:51,798 INFO 10195 [egg-security] use nosniff middleware
+2020-12-28 15:57:51,798 INFO 10195 [egg-security] use xssProtection middleware
+2020-12-28 15:57:51,799 INFO 10195 [egg-security] use xframe middleware
+2020-12-28 15:57:51,799 INFO 10195 [egg-security] use dta middleware
+2020-12-28 15:57:51,799 INFO 10195 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:57:51,807 INFO 10195 [egg:core] dump config after load, 3ms
+2020-12-28 15:57:51,810 INFO 10195 [egg-mongoose] starting...
+2020-12-28 15:57:51,826 INFO 10195 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:57:51,831 INFO 10195 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:57:51,833 INFO 10195 [egg-watcher:application] watcher start success
+2020-12-28 15:57:51,840 INFO 10195 [egg:core] dump config after ready, 4ms
+2020-12-28 15:58:25,438 INFO 10236 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:58:25,456 INFO 10236 [egg-multipart] stream mode enable
+2020-12-28 15:58:25,619 INFO 10236 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:58:25,677 INFO 10236 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:58:25,678 INFO 10236 [egg-security] use methodnoallow middleware
+2020-12-28 15:58:25,679 INFO 10236 [egg-security] use noopen middleware
+2020-12-28 15:58:25,679 INFO 10236 [egg-security] use nosniff middleware
+2020-12-28 15:58:25,679 INFO 10236 [egg-security] use xssProtection middleware
+2020-12-28 15:58:25,680 INFO 10236 [egg-security] use xframe middleware
+2020-12-28 15:58:25,680 INFO 10236 [egg-security] use dta middleware
+2020-12-28 15:58:25,680 INFO 10236 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:58:25,688 INFO 10236 [egg:core] dump config after load, 3ms
+2020-12-28 15:58:25,691 INFO 10236 [egg-mongoose] starting...
+2020-12-28 15:58:25,709 INFO 10236 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:58:25,715 INFO 10236 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:58:25,717 INFO 10236 [egg-watcher:application] watcher start success
+2020-12-28 15:58:25,725 INFO 10236 [egg:core] dump config after ready, 5ms
+2020-12-28 15:59:26,544 INFO 10255 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:59:26,563 INFO 10255 [egg-multipart] stream mode enable
+2020-12-28 15:59:26,727 INFO 10255 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:59:26,781 INFO 10255 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:59:26,783 INFO 10255 [egg-security] use methodnoallow middleware
+2020-12-28 15:59:26,783 INFO 10255 [egg-security] use noopen middleware
+2020-12-28 15:59:26,783 INFO 10255 [egg-security] use nosniff middleware
+2020-12-28 15:59:26,784 INFO 10255 [egg-security] use xssProtection middleware
+2020-12-28 15:59:26,784 INFO 10255 [egg-security] use xframe middleware
+2020-12-28 15:59:26,784 INFO 10255 [egg-security] use dta middleware
+2020-12-28 15:59:26,784 INFO 10255 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:59:26,792 INFO 10255 [egg:core] dump config after load, 3ms
+2020-12-28 15:59:26,795 INFO 10255 [egg-mongoose] starting...
+2020-12-28 15:59:26,812 INFO 10255 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:59:26,817 INFO 10255 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:59:26,819 INFO 10255 [egg-watcher:application] watcher start success
+2020-12-28 15:59:26,827 INFO 10255 [egg:core] dump config after ready, 4ms
+2020-12-28 15:59:33,056 INFO 10258 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-28 15:59:33,074 INFO 10258 [egg-multipart] stream mode enable
+2020-12-28 15:59:33,236 INFO 10258 [egg-mongoose] connecting mongodb://127.0.0.1:27017/rencs
+2020-12-28 15:59:33,291 INFO 10258 [egg-static] starting static serve /public/ -> /Users/chengsen/WebProjects/nfwangEnd/app/public
+2020-12-28 15:59:33,292 INFO 10258 [egg-security] use methodnoallow middleware
+2020-12-28 15:59:33,292 INFO 10258 [egg-security] use noopen middleware
+2020-12-28 15:59:33,293 INFO 10258 [egg-security] use nosniff middleware
+2020-12-28 15:59:33,293 INFO 10258 [egg-security] use xssProtection middleware
+2020-12-28 15:59:33,293 INFO 10258 [egg-security] use xframe middleware
+2020-12-28 15:59:33,293 INFO 10258 [egg-security] use dta middleware
+2020-12-28 15:59:33,293 INFO 10258 [egg-security] compose 6 middlewares into one security middleware
+2020-12-28 15:59:33,301 INFO 10258 [egg:core] dump config after load, 3ms
+2020-12-28 15:59:33,304 INFO 10258 [egg-mongoose] starting...
+2020-12-28 15:59:33,322 INFO 10258 [egg-mongoose] mongodb://127.0.0.1:27017/rencs connected successfully
+2020-12-28 15:59:33,327 INFO 10258 [egg-mongoose] instance[0] start successfully
+2020-12-28 15:59:33,329 INFO 10258 [egg-watcher:application] watcher start success
+2020-12-28 15:59:33,337 INFO 10258 [egg:core] dump config after ready, 4ms

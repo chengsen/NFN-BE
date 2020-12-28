@@ -1,0 +1,179 @@
+2020-12-28 14:42:25,967 ERROR 7639 [-/127.0.0.1/-/13ms POST /api/v2/user] nodejs.TypeError: Cannot read property 'create' of undefined
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:21:41)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7639
+hostname: chengsen.local
+
+2020-12-28 15:26:41,168 ERROR 9571 [egg-mongoose] mongodb://你的mongodb地址/apiExample disconnected
+2020-12-28 15:26:41,169 ERROR 9571 nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [xn--mongodb-l45k149cue9436a:27017] on first connect [Error: getaddrinfo ENOTFOUND xn--mongodb-l45k149cue9436a
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at Pool.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:995:11
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:32:7
+    at callback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:280:5)
+    at Socket.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:310:7)
+    at Object.onceWrapper (events.js:422:26)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+name: "MongoNetworkError"
+pid: 9571
+hostname: chengsen.local
+
+2020-12-28 15:26:41,170 ERROR 9571 nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [xn--mongodb-l45k149cue9436a:27017] on first connect [Error: getaddrinfo ENOTFOUND xn--mongodb-l45k149cue9436a
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at Pool.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:995:11
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:32:7
+    at callback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:280:5)
+    at Socket.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:310:7)
+    at Object.onceWrapper (events.js:422:26)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+name: "MongoNetworkError"
+pid: 9571
+hostname: chengsen.local
+
+2020-12-28 15:26:41,172 ERROR 9571 [-/127.0.0.1/-/0ms GET /] nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [xn--mongodb-l45k149cue9436a:27017] on first connect [Error: getaddrinfo ENOTFOUND xn--mongodb-l45k149cue9436a
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  name: 'MongoNetworkError'
+}]
+    at Pool.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:995:11
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:32:7
+    at callback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:280:5)
+    at Socket.<anonymous> (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/connect.js:310:7)
+    at Object.onceWrapper (events.js:422:26)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+name: "MongoNetworkError"
+pid: 9571
+hostname: chengsen.local
+
+2020-12-28 15:37:22,507 ERROR 9802 [-/127.0.0.1/-/43ms POST /api/v2/user] nodejs.ValidationError: User validation failed: sex: Cast to Number failed for value "man" at path "sex", archiveAddr: Path `archiveAddr` is required.
+    at model.Document.invalidate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:2688:32)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1301:12)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1010:16)
+    at model.Document (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:150:12)
+    at model.Model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:105:12)
+    at new model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:4693:15)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3055:22
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3091:7
+    at Array.forEach (<anonymous>)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3090:15
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)
+    at Mongoose._promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/index.js:1135:10)
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3025:23)
+    at userService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/user.js:14:41)
+errors: {"sex":{"stringValue":"\"man\"","kind":"Number","value":"man","path":"sex","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"archiveAddr":{"name":"ValidatorError","message":"Path `archiveAddr` is required.","properties":{"message":"Path `archiveAddr` is required.","type":"required","path":"archiveAddr"},"kind":"required","path":"archiveAddr"}}
+_message: "User validation failed"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9802
+hostname: chengsen.local
+
+2020-12-28 15:38:03,323 ERROR 9817 [-/127.0.0.1/-/38ms POST /api/v2/user] nodejs.ValidationError: User validation failed: sex: Cast to Number failed for value "man" at path "sex"
+    at model.Document.invalidate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:2688:32)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1301:12)
+    at model.$set (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:1010:16)
+    at model.Document (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/document.js:150:12)
+    at model.Model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:105:12)
+    at new model (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:4693:15)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3055:22
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3091:7
+    at Array.forEach (<anonymous>)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3090:15
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)
+    at Mongoose._promiseOrCallback (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/index.js:1135:10)
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongoose/lib/model.js:3025:23)
+    at userService.create (/Users/chengsen/WebProjects/nfwangEnd/app/service/user.js:14:41)
+errors: {"sex":{"stringValue":"\"man\"","kind":"Number","value":"man","path":"sex","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}}
+_message: "User validation failed"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9817
+hostname: chengsen.local
+
+2020-12-28 15:38:43,186 ERROR 9819 [-/127.0.0.1/-/31ms POST /api/v2/user] nodejs.MongoError: E11000 duplicate key error collection: rencs.users index: userName_1 dup key: { userName: "string" }
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/error.js:57:12)
+    at toError (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/utils.js:123:22)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/operations/common_functions.js:265:39
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+keyPattern: {"userName":1}
+keyValue: {"userName":"string"}
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9819
+hostname: chengsen.local
+
+2020-12-28 15:40:46,004 ERROR 9864 [-/127.0.0.1/-/30ms POST /api/v2/user] nodejs.MongoError: E11000 duplicate key error collection: rencs.users index: userName_1 dup key: { userName: "string" }
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/error.js:57:12)
+    at toError (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/utils.js:123:22)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/operations/common_functions.js:265:39
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+keyPattern: {"userName":1}
+keyValue: {"userName":"string"}
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9864
+hostname: chengsen.local
+
+2020-12-28 15:41:27,206 ERROR 9864 [-/127.0.0.1/-/4ms POST /api/v2/user] nodejs.MongoError: E11000 duplicate key error collection: rencs.users index: userName_1 dup key: { userName: "string" }
+    at Function.create (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/error.js:57:12)
+    at toError (/Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/utils.js:123:22)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/operations/common_functions.js:265:39
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/mongodb/lib/core/connection/pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+keyPattern: {"userName":1}
+keyValue: {"userName":"string"}
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9864
+hostname: chengsen.local
+
