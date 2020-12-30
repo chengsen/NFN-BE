@@ -1,0 +1,81 @@
+2020-12-29 00:28:01,454 ERROR 6364 [-/127.0.0.1/-/22ms GET /api/v2/userQuery?page=1] nodejs.TypeError: ctx.model.User.Count is not a function
+    at userService.search (/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js:15:46)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UserController.index (/Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js:10:24)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-static-cache/index.js:41:56
+    at async notfound (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/meta.js:17:5)
+    at async cors (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@koa/cors/index.js:56:32)
+
+pid: 6364
+hostname: chengsen
+
+2020-12-29 00:28:17,635 ERROR 6390 [-/127.0.0.1/-/17ms GET /api/v2/userQuery?page=1] nodejs.TypeError: ctx.model.User.find(...).Count is not a function
+    at userService.search (/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js:15:53)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UserController.index (/Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js:10:24)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-static-cache/index.js:41:56
+    at async notfound (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/meta.js:17:5)
+    at async cors (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@koa/cors/index.js:56:32)
+
+pid: 6390
+hostname: chengsen
+
+2020-12-29 00:29:26,589 ERROR 6428 [-/127.0.0.1/-/17ms GET /api/v2/userQuery?page=1] nodejs.TypeError: ctx.model.User.Count is not a function
+    at userService.search (/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js:15:46)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UserController.index (/Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js:10:24)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-static-cache/index.js:41:56
+    at async notfound (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/meta.js:17:5)
+    at async cors (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@koa/cors/index.js:56:32)
+
+pid: 6428
+hostname: chengsen
+
+2020-12-29 10:20:52,247 WARN 3381 [-/127.0.0.1/-/20ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"should be a string","code":"invalid","field":"sex"},{"message":"should be a string","code":"invalid","field":"nation"},{"message":"should be a string","code":"invalid","field":"peopleType"},{"message":"should be a string","code":"invalid","field":"partyNormal"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3381
+hostname: chengsen.local
+

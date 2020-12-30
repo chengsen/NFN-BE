@@ -157,6 +157,14 @@
       "credentials": true
     },
     "validate": {},
+    "mongoose": {
+      "url": "mongodb://127.0.0.1:27017/rencs",
+      "options": {},
+      "plugins": [],
+      "loadModel": true,
+      "app": true,
+      "agent": false
+    },
     "env": "local",
     "name": "nfwangEnd",
     "keys": "<String len: 28>",
@@ -178,6 +186,7 @@
       "dependencies": {
         "egg": "^2.15.1",
         "egg-cors": "^2.2.3",
+        "egg-mongoose": "^3.3.1",
         "egg-scripts": "^2.11.0",
         "egg-validate": "^2.0.2"
       },
@@ -485,6 +494,17 @@
       "from": "/Users/chengsen/WebProjects/nfwangEnd/config/plugin.js",
       "path": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate",
       "version": "2.0.2"
+    },
+    "mongoose": {
+      "enable": true,
+      "package": "egg-mongoose",
+      "name": "mongoose",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Users/chengsen/WebProjects/nfwangEnd/config/plugin.js",
+      "path": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose",
+      "version": "3.3.1"
     }
   }
 }

@@ -6,6 +6,7 @@
     "allowMethods": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
     "credentials": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js"
   },
+  "validate": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
   "security": {
     "csrf": {
       "enable": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
@@ -59,6 +60,14 @@
       "ipBlackList": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js",
       "checkAddress": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/config/config.default.js"
     }
+  },
+  "mongoose": {
+    "url": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+    "options": "/Users/chengsen/WebProjects/nfwangEnd/config/config.default.js",
+    "plugins": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js",
+    "loadModel": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-mongoose/config/config.default.js"
   },
   "session": {
     "maxAge": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-session/config/config.default.js",
@@ -151,7 +160,6 @@
     "defaultViewEngine": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-view/config/config.default.js",
     "mapping": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-view/config/config.default.js"
   },
-  "validate": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/config/config.default.js",
   "env": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
   "name": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
   "cookies": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
@@ -172,6 +180,7 @@
     "dependencies": {
       "egg": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
       "egg-cors": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
       "egg-scripts": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js",
       "egg-validate": "/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/config/config.default.js"
     },

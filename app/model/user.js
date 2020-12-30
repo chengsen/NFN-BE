@@ -11,12 +11,12 @@ module.exports = app => {
       required: true,
     },
     sex: {
-      type: Number,
+      type: String,
       unique: false,
       required: true,
     },
     nation: {
-      type: Number,
+      type: String,
       unique: false,
       required: true,
     },
@@ -41,7 +41,7 @@ module.exports = app => {
       required: true,
     },
     peopleType: {
-      type: Number,
+      type: String,
       unique: false,
       required: true,
     },
@@ -71,7 +71,7 @@ module.exports = app => {
       required: false,
     },
     partyNormal: {
-      type: Number,
+      type: String,
       unique: false,
       required: true,
     },

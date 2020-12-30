@@ -1,0 +1,226 @@
+2020-12-29 00:28:01,454 ERROR 6364 [-/127.0.0.1/-/22ms GET /api/v2/userQuery?page=1] nodejs.TypeError: ctx.model.User.Count is not a function
+    at userService.search (/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js:15:46)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UserController.index (/Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js:10:24)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-static-cache/index.js:41:56
+    at async notfound (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/meta.js:17:5)
+    at async cors (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@koa/cors/index.js:56:32)
+
+pid: 6364
+hostname: chengsen
+
+2020-12-29 00:28:17,635 ERROR 6390 [-/127.0.0.1/-/17ms GET /api/v2/userQuery?page=1] nodejs.TypeError: ctx.model.User.find(...).Count is not a function
+    at userService.search (/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js:15:53)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UserController.index (/Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js:10:24)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-static-cache/index.js:41:56
+    at async notfound (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/meta.js:17:5)
+    at async cors (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@koa/cors/index.js:56:32)
+
+pid: 6390
+hostname: chengsen
+
+2020-12-29 00:29:26,588 ERROR 6428 [-/127.0.0.1/-/17ms GET /api/v2/userQuery?page=1] nodejs.TypeError: ctx.model.User.Count is not a function
+    at userService.search (/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js:15:46)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UserController.index (/Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js:10:24)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-static-cache/index.js:41:56
+    at async notfound (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg/app/middleware/meta.js:17:5)
+    at async cors (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@koa/cors/index.js:56:32)
+
+pid: 6428
+hostname: chengsen
+
+2020-12-29 00:45:08,289 ERROR 6520 [egg-mongoose] mongodb://127.0.0.1:27017/rencs disconnected
+2020-12-29 12:07:18,995 ERROR 2323 nodejs.ClusterClientNoResponseError: client no response in 298353ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 2323
+hostname: chengsen.local
+
+2020-12-29 12:15:37,041 ERROR 2323 nodejs.ClusterClientNoResponseError: client no response in 457944ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 2323
+hostname: chengsen.local
+
+2020-12-29 13:42:55,613 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 623226ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 14:02:07,047 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 1051311ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 15:07:45,831 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 1498437ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 16:29:49,456 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 428330ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 18:11:34,314 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 1944113ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 18:13:39,516 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 85161ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 18:15:28,082 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 108562ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 18:30:30,556 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 882452ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 18:45:33,559 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 882979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 19:00:36,546 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 862961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 19:15:39,553 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 902996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 19:19:46,804 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 247245ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 19:34:49,557 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 882729ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 19:49:52,557 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 882979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 20:04:55,559 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 882982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 20:19:58,557 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 882979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 23:12:15,064 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 10316486ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-29 23:20:00,683 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 445599ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-30 06:13:11,698 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 24770979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+

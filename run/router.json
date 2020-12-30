@@ -23,5 +23,31 @@
     "stack": [
       "wrappedController"
     ]
+  },
+  {
+    "name": "userQueries",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/v2/userQuery",
+    "regexp": "/^\\/api\\/v2\\/userQuery(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "userByIds",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/v2/userById",
+    "regexp": "/^\\/api\\/v2\\/userById(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
   }
 ]
