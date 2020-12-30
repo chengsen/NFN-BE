@@ -95,6 +95,11 @@ module.exports = app => {
       unique: false,
       required: true,
     },
+    sign: {
+      type: String,
+      unique: false,
+      required: true,
+    },
   });
   return mongoose.model('User', UserSchema);
 };

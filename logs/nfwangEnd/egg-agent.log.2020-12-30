@@ -1,0 +1,49 @@
+2020-12-30 06:13:11,714 INFO 8276 [egg-logrotator] agent logger reload: got log-reload message
+2020-12-30 09:47:41,716 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 12870005ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-30 09:59:28,824 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 224928ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-30 12:48:08,962 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 2346014ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-30 12:58:58,159 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 609152ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8276
+hostname: chengsen.local
+
+2020-12-30 17:52:06,064 WARN 8276 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js change
+2020-12-30 17:52:05,860 INFO 8276 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1628,"blocks":8,"atimeMs":1609298786207.9546,"mtimeMs":1609321925795.5107,"ctimeMs":1609321925795.5107,"birthtimeMs":1609133196508.0833,"atime":"2020-12-30T03:26:26.208Z","mtime":"2020-12-30T09:52:05.796Z","ctime":"2020-12-30T09:52:05.796Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-30 17:52:21,876 WARN 8276 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/service/user.js change
+2020-12-30 17:52:21,674 INFO 8276 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/service/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041241,"size":1625,"blocks":8,"atimeMs":1609149384225.9604,"mtimeMs":1609321941614.0754,"ctimeMs":1609321941614.0754,"birthtimeMs":1609133244280.78,"atime":"2020-12-28T09:56:24.226Z","mtime":"2020-12-30T09:52:21.614Z","ctime":"2020-12-30T09:52:21.614Z","birthtime":"2020-12-28T05:27:24.281Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-30 17:53:55,394 WARN 8276 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/model/user.js change
+2020-12-30 17:53:55,193 INFO 8276 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/model/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90050565,"size":1850,"blocks":8,"atimeMs":1609298786208.151,"mtimeMs":1609322035131.315,"ctimeMs":1609322035131.315,"birthtimeMs":1609140457788.6052,"atime":"2020-12-30T03:26:26.208Z","mtime":"2020-12-30T09:53:55.131Z","ctime":"2020-12-30T09:53:55.131Z","birthtime":"2020-12-28T07:27:37.789Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-30 22:14:45,517 INFO 1605 [egg:logger] init all loggers with options: {"dir":"/Users/chengsen/WebProjects/nfwangEnd/logs/nfwangEnd","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nfwangEnd-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-30 22:14:45,542 INFO 1605 [egg:core] dump config after load, 21ms
+2020-12-30 22:14:45,582 INFO 1605 [egg-watcher] Start watching: ["/Users/chengsen/WebProjects/nfwangEnd/app","/Users/chengsen/WebProjects/nfwangEnd/config","/Users/chengsen/WebProjects/nfwangEnd/mocks","/Users/chengsen/WebProjects/nfwangEnd/mocks_proxy","/Users/chengsen/WebProjects/nfwangEnd/app.js"]
+2020-12-30 22:14:45,582 INFO 1605 [egg-watcher] Start watching: "/Users/chengsen/WebProjects/nfwangEnd/app"
+2020-12-30 22:14:45,583 INFO 1605 [egg-watcher] Start watching: "/Users/chengsen/WebProjects/nfwangEnd/config"
+2020-12-30 22:14:45,583 INFO 1605 [egg-watcher] Start watching: "/Users/chengsen/WebProjects/nfwangEnd/mocks"
+2020-12-30 22:14:45,583 INFO 1605 [egg-watcher] Start watching: "/Users/chengsen/WebProjects/nfwangEnd/mocks_proxy"
+2020-12-30 22:14:45,583 INFO 1605 [egg-watcher] Start watching: "/Users/chengsen/WebProjects/nfwangEnd/app.js"
+2020-12-30 22:14:45,583 INFO 1605 [egg-watcher:agent] watcher start success
+2020-12-30 22:14:45,594 INFO 1605 [egg:core] dump config after ready, 4ms

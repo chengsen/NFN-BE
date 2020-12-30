@@ -20,6 +20,7 @@ const createRule = {
   archiveAddr: { type: 'string', allowEmpty: true, required: false },
   phone: 'string',
   homeAddr: 'string',
+  sign: 'string',
 };
 
 class UserController extends Controller {

@@ -1,16 +1,16 @@
-2020-12-30 09:47:41,715 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 12870005ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2020-12-31 00:39:21,589 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 153390ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
     at listOnTimeout (internal/timers.js:554:17)
     at processTimers (internal/timers.js:497:7)
 name: "ClusterClientNoResponseError"
-pid: 8276
+pid: 1605
 hostname: chengsen.local
 
-2020-12-30 09:59:28,824 ERROR 8276 nodejs.ClusterClientNoResponseError: client no response in 224928ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2020-12-31 01:45:47,709 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 85375ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
     at listOnTimeout (internal/timers.js:554:17)
     at processTimers (internal/timers.js:497:7)
 name: "ClusterClientNoResponseError"
-pid: 8276
+pid: 1605
 hostname: chengsen.local
 

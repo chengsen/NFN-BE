@@ -1,0 +1,120 @@
+2020-12-30 17:41:10,012 WARN 8277 [-/127.0.0.1/-/2ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"userName","code":"missing_field"},{"message":"required","field":"sex","code":"missing_field"},{"message":"required","field":"nation","code":"missing_field"},{"message":"required","field":"idNumber","code":"missing_field"},{"message":"required","field":"birthDate","code":"missing_field"},{"message":"required","field":"gradSchool","code":"missing_field"},{"message":"required","field":"eduBg","code":"missing_field"},{"message":"required","field":"peopleType","code":"missing_field"},{"message":"required","field":"transferFrom","code":"missing_field"},{"message":"required","field":"partyJoinDate","code":"missing_field"},{"message":"required","field":"turnTrueDate","code":"missing_field"},{"message":"required","field":"partyNormal","code":"missing_field"},{"message":"required","field":"phone","code":"missing_field"},{"message":"required","field":"homeAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8277
+hostname: chengsen.local
+
+2020-12-30 17:41:53,715 WARN 8277 [-/127.0.0.1/-/0ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"userName","code":"missing_field"},{"message":"required","field":"sex","code":"missing_field"},{"message":"required","field":"nation","code":"missing_field"},{"message":"required","field":"idNumber","code":"missing_field"},{"message":"required","field":"birthDate","code":"missing_field"},{"message":"required","field":"gradSchool","code":"missing_field"},{"message":"required","field":"eduBg","code":"missing_field"},{"message":"required","field":"peopleType","code":"missing_field"},{"message":"required","field":"transferFrom","code":"missing_field"},{"message":"required","field":"partyJoinDate","code":"missing_field"},{"message":"required","field":"turnTrueDate","code":"missing_field"},{"message":"required","field":"partyNormal","code":"missing_field"},{"message":"required","field":"phone","code":"missing_field"},{"message":"required","field":"homeAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8277
+hostname: chengsen.local
+
+2020-12-30 17:41:54,015 WARN 8277 [-/127.0.0.1/-/1ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"userName","code":"missing_field"},{"message":"required","field":"sex","code":"missing_field"},{"message":"required","field":"nation","code":"missing_field"},{"message":"required","field":"idNumber","code":"missing_field"},{"message":"required","field":"birthDate","code":"missing_field"},{"message":"required","field":"gradSchool","code":"missing_field"},{"message":"required","field":"eduBg","code":"missing_field"},{"message":"required","field":"peopleType","code":"missing_field"},{"message":"required","field":"transferFrom","code":"missing_field"},{"message":"required","field":"partyJoinDate","code":"missing_field"},{"message":"required","field":"turnTrueDate","code":"missing_field"},{"message":"required","field":"partyNormal","code":"missing_field"},{"message":"required","field":"phone","code":"missing_field"},{"message":"required","field":"homeAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8277
+hostname: chengsen.local
+
+2020-12-30 17:41:54,238 WARN 8277 [-/127.0.0.1/-/1ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"userName","code":"missing_field"},{"message":"required","field":"sex","code":"missing_field"},{"message":"required","field":"nation","code":"missing_field"},{"message":"required","field":"idNumber","code":"missing_field"},{"message":"required","field":"birthDate","code":"missing_field"},{"message":"required","field":"gradSchool","code":"missing_field"},{"message":"required","field":"eduBg","code":"missing_field"},{"message":"required","field":"peopleType","code":"missing_field"},{"message":"required","field":"transferFrom","code":"missing_field"},{"message":"required","field":"partyJoinDate","code":"missing_field"},{"message":"required","field":"turnTrueDate","code":"missing_field"},{"message":"required","field":"partyNormal","code":"missing_field"},{"message":"required","field":"phone","code":"missing_field"},{"message":"required","field":"homeAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8277
+hostname: chengsen.local
+
+2020-12-30 17:46:41,391 WARN 8277 [-/127.0.0.1/-/1ms POST /api/v2/user] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-validate/app/extend/context.js:14:17)
+    at UserController.create (/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js:31:9)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:45:18)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:44:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/chengsen/WebProjects/nfwangEnd/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"userName","code":"missing_field"},{"message":"required","field":"sex","code":"missing_field"},{"message":"required","field":"nation","code":"missing_field"},{"message":"required","field":"idNumber","code":"missing_field"},{"message":"required","field":"birthDate","code":"missing_field"},{"message":"required","field":"gradSchool","code":"missing_field"},{"message":"required","field":"eduBg","code":"missing_field"},{"message":"required","field":"peopleType","code":"missing_field"},{"message":"required","field":"transferFrom","code":"missing_field"},{"message":"required","field":"partyJoinDate","code":"missing_field"},{"message":"required","field":"turnTrueDate","code":"missing_field"},{"message":"required","field":"partyNormal","code":"missing_field"},{"message":"required","field":"phone","code":"missing_field"},{"message":"required","field":"homeAddr","code":"missing_field"}]
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8277
+hostname: chengsen.local
+

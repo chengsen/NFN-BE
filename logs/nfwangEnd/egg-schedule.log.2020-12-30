@@ -1,0 +1,21 @@
+2020-12-30 17:52:07,275 INFO 28513 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-12-30 17:52:07,275 INFO 28513 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-12-30 17:52:07,275 INFO 28513 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-12-30 17:52:22,890 INFO 28542 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-12-30 17:52:22,890 INFO 28542 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-12-30 17:52:22,890 INFO 28542 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-12-30 17:53:56,397 INFO 28608 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-12-30 17:53:56,397 INFO 28608 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-12-30 17:53:56,397 INFO 28608 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-12-30 22:14:46,196 INFO 1606 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-12-30 22:14:46,196 INFO 1606 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-12-30 22:14:46,196 INFO 1606 [egg-schedule]: register schedule /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-12-30 22:14:46,682 INFO 1605 [Timer] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22513320ms at 2020-12-31 04:30:00.002
+2020-12-30 22:14:46,682 INFO 1605 [Timer] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 6313318ms at 2020-12-31 00:00:00.000
+2020-12-30 22:14:46,683 INFO 1605 [Timer] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6314318ms at 2020-12-31 00:00:01.000
+2020-12-31 00:00:00,127 INFO 1606 [Job#160934400012564622324317891] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-12-31 00:00:00,136 INFO 1606 [Job#160934400012564622324317891] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 8ms. 
+2020-12-31 00:00:00,129 INFO 1605 [Timer] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86399874ms at 2021-01-01 00:00:00.003
+2020-12-31 00:00:01,129 INFO 1605 [Timer] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399875ms at 2021-01-01 00:00:01.004
+2020-12-31 00:00:01,125 INFO 1606 [Job#160934400112464632315146871] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-12-31 00:00:01,132 INFO 1606 [Job#160934400112464632315146871] /Users/chengsen/WebProjects/nfwangEnd/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 7ms. 
