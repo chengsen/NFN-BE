@@ -6,7 +6,7 @@ class UserQueryController extends Controller {
     const { ctx } = this;
     ctx.query.limit = 10;
     ctx.query.page = parseInt(ctx.query.page);
-    console.log('userQuery.index, 查询条件', ctx.query);
+    console.log('userQuery/index, 查询条件', ctx.query);
     const { result, resultCount } = await ctx.service.userQuery.search(ctx.query);
     ctx.body = {
       message: '查询成功',

@@ -15,3 +15,333 @@ name: "ClusterClientNoResponseError"
 pid: 1605
 hostname: chengsen.local
 
+2020-12-31 01:58:58,160 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 110326ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:04:32,573 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294384ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:10:06,990 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294390ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:15:40,307 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293285ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:21:15,853 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 295505ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:26:49,775 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293900ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:32:28,971 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 299169ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:38:02,993 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293989ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:43:37,355 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294342ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:49:16,850 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 299469ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 02:54:55,928 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 299048ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:00:29,882 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:06:03,802 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293897ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:11:37,746 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293912ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:17:12,161 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294377ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:22:46,518 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294321ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:28:20,707 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294152ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:33:54,657 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293922ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:39:28,693 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294002ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:45:02,595 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 293876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:50:36,959 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294342ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 03:56:11,345 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 294365ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 05:57:00,333 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 7208937ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 07:29:48,890 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 5528492ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 08:23:18,371 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 3089405ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 08:41:40,101 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 1061693ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 08:43:55,696 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 115569ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 08:58:59,395 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 843673ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 09:14:02,397 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 842960ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 09:29:05,392 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 882979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 09:44:08,392 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 882987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 09:51:24,730 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 416318ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 09:55:44,998 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 240245ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 10:13:20,933 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 215738ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 12:30:44,149 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 222198ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 13:17:14,711 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 1429983ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 13:19:51,271 ERROR 1605 nodejs.ClusterClientNoResponseError: client no response in 116494ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/chengsen/WebProjects/nfwangEnd/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1605
+hostname: chengsen.local
+
+2020-12-31 14:07:52,716 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js change
+2020-12-31 14:07:52,509 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1561,"blocks":8,"atimeMs":1609350401833.7468,"mtimeMs":1609394872443.0608,"ctimeMs":1609394872443.0608,"birthtimeMs":1609133196508.0833,"atime":"2020-12-30T17:46:41.834Z","mtime":"2020-12-31T06:07:52.443Z","ctime":"2020-12-31T06:07:52.443Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:08:56,898 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js change
+2020-12-31 14:08:56,697 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1494,"blocks":8,"atimeMs":1609394874654.9666,"mtimeMs":1609394936636.4214,"ctimeMs":1609394936636.4214,"birthtimeMs":1609133196508.0833,"atime":"2020-12-31T06:07:54.655Z","mtime":"2020-12-31T06:08:56.636Z","ctime":"2020-12-31T06:08:56.636Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:09:34,503 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js change
+2020-12-31 14:09:34,302 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1512,"blocks":8,"atimeMs":1609394937302.9133,"mtimeMs":1609394974241.1191,"ctimeMs":1609394974241.1191,"birthtimeMs":1609133196508.0833,"atime":"2020-12-31T06:08:57.303Z","mtime":"2020-12-31T06:09:34.241Z","ctime":"2020-12-31T06:09:34.241Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:09:41,774 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js change
+2020-12-31 14:09:41,519 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1530,"blocks":8,"atimeMs":1609394975767.1736,"mtimeMs":1609394981507.8132,"ctimeMs":1609394981507.8132,"birthtimeMs":1609133196508.0833,"atime":"2020-12-31T06:09:35.767Z","mtime":"2020-12-31T06:09:41.508Z","ctime":"2020-12-31T06:09:41.508Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:09:41,570 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1530,"blocks":8,"atimeMs":1609394975767.1736,"mtimeMs":1609394981507.8132,"ctimeMs":1609394981507.8132,"birthtimeMs":1609133196508.0833,"atime":"2020-12-31T06:09:35.767Z","mtime":"2020-12-31T06:09:41.508Z","ctime":"2020-12-31T06:09:41.508Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:09:58,595 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js change
+2020-12-31 14:09:58,392 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1541,"blocks":8,"atimeMs":1609394983032.6233,"mtimeMs":1609394998328.098,"ctimeMs":1609394998328.098,"birthtimeMs":1609133196508.0833,"atime":"2020-12-31T06:09:43.033Z","mtime":"2020-12-31T06:09:58.328Z","ctime":"2020-12-31T06:09:58.328Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:10:05,867 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js change
+2020-12-31 14:10:05,616 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1549,"blocks":8,"atimeMs":1609394999998.8608,"mtimeMs":1609395005604.8337,"ctimeMs":1609395005604.8337,"birthtimeMs":1609133196508.0833,"atime":"2020-12-31T06:09:59.999Z","mtime":"2020-12-31T06:10:05.605Z","ctime":"2020-12-31T06:10:05.605Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:10:05,666 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041211,"size":1549,"blocks":8,"atimeMs":1609394999998.8608,"mtimeMs":1609395005604.8337,"ctimeMs":1609395005604.8337,"birthtimeMs":1609133196508.0833,"atime":"2020-12-31T06:09:59.999Z","mtime":"2020-12-31T06:10:05.605Z","ctime":"2020-12-31T06:10:05.605Z","birthtime":"2020-12-28T05:26:36.508Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:10:19,934 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/userById.js change
+2020-12-31 14:10:19,683 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/userById.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90177020,"size":519,"blocks":8,"atimeMs":1609298786208.0315,"mtimeMs":1609395019672.3403,"ctimeMs":1609395019672.3403,"birthtimeMs":1609209943287.99,"atime":"2020-12-30T03:26:26.208Z","mtime":"2020-12-31T06:10:19.672Z","ctime":"2020-12-31T06:10:19.672Z","birthtime":"2020-12-29T02:45:43.288Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:10:19,734 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/userById.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90177020,"size":519,"blocks":8,"atimeMs":1609298786208.0315,"mtimeMs":1609395019672.3403,"ctimeMs":1609395019672.3403,"birthtimeMs":1609209943287.99,"atime":"2020-12-30T03:26:26.208Z","mtime":"2020-12-31T06:10:19.672Z","ctime":"2020-12-31T06:10:19.672Z","birthtime":"2020-12-29T02:45:43.288Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:10:26,528 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/userById.js change
+2020-12-31 14:10:26,277 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/userById.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90177020,"size":504,"blocks":8,"atimeMs":1609395021185.4924,"mtimeMs":1609395026266.5386,"ctimeMs":1609395026266.5386,"birthtimeMs":1609209943287.99,"atime":"2020-12-31T06:10:21.185Z","mtime":"2020-12-31T06:10:26.267Z","ctime":"2020-12-31T06:10:26.267Z","birthtime":"2020-12-29T02:45:43.288Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:10:26,327 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/userById.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90177020,"size":504,"blocks":8,"atimeMs":1609395021185.4924,"mtimeMs":1609395026266.5386,"ctimeMs":1609395026266.5386,"birthtimeMs":1609209943287.99,"atime":"2020-12-31T06:10:21.185Z","mtime":"2020-12-31T06:10:26.267Z","ctime":"2020-12-31T06:10:26.267Z","birthtime":"2020-12-29T02:45:43.288Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:10:51,472 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js change
+2020-12-31 14:10:51,269 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/controller/userQuery.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90139005,"size":547,"blocks":8,"atimeMs":1609298786208.0713,"mtimeMs":1609395051207.124,"ctimeMs":1609395051207.124,"birthtimeMs":1609165639067.3188,"atime":"2020-12-30T03:26:26.208Z","mtime":"2020-12-31T06:10:51.207Z","ctime":"2020-12-31T06:10:51.207Z","birthtime":"2020-12-28T14:27:19.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:11:19,265 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/service/user.js change
+2020-12-31 14:11:19,064 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/service/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041241,"size":1560,"blocks":8,"atimeMs":1609350401833.949,"mtimeMs":1609395079003.88,"ctimeMs":1609395079003.88,"birthtimeMs":1609133244280.78,"atime":"2020-12-30T17:46:41.834Z","mtime":"2020-12-31T06:11:19.004Z","ctime":"2020-12-31T06:11:19.004Z","birthtime":"2020-12-28T05:27:24.281Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:12:51,864 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/service/user.js change
+2020-12-31 14:12:51,660 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/service/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90041241,"size":1022,"blocks":8,"atimeMs":1609395079931.722,"mtimeMs":1609395171598.9119,"ctimeMs":1609395171598.9119,"birthtimeMs":1609133244280.78,"atime":"2020-12-31T06:11:19.932Z","mtime":"2020-12-31T06:12:51.599Z","ctime":"2020-12-31T06:12:51.599Z","birthtime":"2020-12-28T05:27:24.281Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:13:10,736 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/service/userById.js change
+2020-12-31 14:13:10,535 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/service/userById.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90177064,"size":327,"blocks":8,"atimeMs":1609298786208.3318,"mtimeMs":1609395190474.5244,"ctimeMs":1609395190474.5244,"birthtimeMs":1609210010190.9622,"atime":"2020-12-30T03:26:26.208Z","mtime":"2020-12-31T06:13:10.475Z","ctime":"2020-12-31T06:13:10.475Z","birthtime":"2020-12-29T02:46:50.191Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:13:31,477 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90139063,"size":837,"blocks":8,"atimeMs":1609298786208.381,"mtimeMs":1609395211416.062,"ctimeMs":1609395211416.062,"birthtimeMs":1609165707653.2397,"atime":"2020-12-30T03:26:26.208Z","mtime":"2020-12-31T06:13:31.416Z","ctime":"2020-12-31T06:13:31.416Z","birthtime":"2020-12-28T14:28:27.653Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:13:31,678 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js change
+2020-12-31 14:14:28,026 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js change
+2020-12-31 14:14:27,822 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90139063,"size":823,"blocks":8,"atimeMs":1609395212639.1162,"mtimeMs":1609395267759.8574,"ctimeMs":1609395267759.8574,"birthtimeMs":1609165707653.2397,"atime":"2020-12-31T06:13:32.639Z","mtime":"2020-12-31T06:14:27.760Z","ctime":"2020-12-31T06:14:27.760Z","birthtime":"2020-12-28T14:28:27.653Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:14:50,460 INFO 1605 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":90139063,"size":758,"blocks":8,"atimeMs":1609395268932.6104,"mtimeMs":1609395290398.727,"ctimeMs":1609395290398.727,"birthtimeMs":1609165707653.2397,"atime":"2020-12-31T06:14:28.933Z","mtime":"2020-12-31T06:14:50.399Z","ctime":"2020-12-31T06:14:50.399Z","birthtime":"2020-12-28T14:28:27.653Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-31 14:14:50,666 WARN 1605 [agent:development] reload worker because /Users/chengsen/WebProjects/nfwangEnd/app/service/userQuery.js change

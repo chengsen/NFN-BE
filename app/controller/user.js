@@ -24,29 +24,29 @@ const createRule = {
 };
 
 class UserController extends Controller {
+  // 插入数据
   async create() {
     const { ctx } = this;
-    console.log('获取的返回值', ctx.request.body);
-    // 校验 `ctx.request.body` 是否符合我们预期的格式
+    console.log('user/create, 获取的返回值', ctx.request.body);
     // 如果参数校验未通过，将会抛出一个 status = 422 的异常
     ctx.validate(createRule, ctx.request.body);
-    // 调用 service 创建一个 topic
     console.log('通过了校验');
     const result = await ctx.service.user.create(ctx.request.body);
     // 设置响应体和状态码
     ctx.body = {
-      Msg: '查询成功',
+      ok: true,
       query: ctx.request.body,
       result,
     };
     ctx.status = 201;
   }
+  // 检索数据
   async index() {
     const { ctx } = this;
-    console.log('index,获取的返回值', ctx.query);
+    console.log('user/index, 获取的返回值', ctx.query);
     const result = await ctx.service.user.search(ctx.query);
     ctx.body = {
-      message: '查询成功',
+      ok: true,
       query: ctx.query,
       result,
     };

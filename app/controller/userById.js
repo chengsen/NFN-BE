@@ -6,10 +6,10 @@ class UserByIdController extends Controller {
     const { ctx } = this;
     ctx.query.limit = 10;
     ctx.query.page = parseInt(ctx.query.page);
-    console.log('userQuery.index,获取的返回值', ctx.query);
+    console.log('userQuery/index, 获取的返回值', ctx.query);
     const { result } = await ctx.service.userById.findOne(ctx.query);
     ctx.body = {
-      message: '查询成功',
+      ok: true,
       query: ctx.query,
       result,
     };
